@@ -1,0 +1,3266 @@
+[
+  {
+    "text": "When do you feel most connected to me around communication this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around communication tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around communication during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around communication the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around communication this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around communication tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around communication during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around communication the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around communication this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around communication tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around communication during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around communication the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:communication:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around closeness the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:intimacy:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around play the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:fun:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around repair the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:conflict:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around appreciation the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:gratitude:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around the future the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:future:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around childhood the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:childhood:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around adventure the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:travel:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around growth the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:self_growth:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around money the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:finances:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around family the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:family:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around friendship the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:friendship:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around wellbeing the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:health:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around dreams the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:dreams:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around values the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:values:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories this week, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories tonight, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories during a quiet moment, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  },
+  {
+    "text": "When do you feel most connected to me around memories the next time we check in, and what helps create that feeling?",
+    "type": "couple_question",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "couple_question:memories:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Both partners answer privately first, then reveal and ask one follow-up question.",
+      "reveal_mode": "both_answered"
+    },
+    "is_active": true
+  }
+]

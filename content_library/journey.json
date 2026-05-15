@@ -1,0 +1,3842 @@
+[
+  {
+    "text": "Day 1: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "communication-light-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "communication-light-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "communication-light-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "communication-light-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "communication-medium-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "communication-medium-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "communication-medium-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "communication-medium-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "communication-deep-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "communication-deep-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "communication-deep-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore communication together with one focused check-in.",
+    "type": "journey",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:communication:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "communication-deep-journey",
+      "journey_name": "Communication Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "intimacy-light-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "intimacy-light-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "intimacy-light-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "intimacy-light-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "intimacy-medium-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "intimacy-medium-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "intimacy-medium-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "intimacy-medium-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "intimacy-deep-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "intimacy-deep-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "intimacy-deep-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore closeness together with one focused check-in.",
+    "type": "journey",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:intimacy:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "intimacy-deep-journey",
+      "journey_name": "Closeness Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "fun-light-journey",
+      "journey_name": "Play Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "fun-light-journey",
+      "journey_name": "Play Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "fun-light-journey",
+      "journey_name": "Play Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "fun-light-journey",
+      "journey_name": "Play Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "fun-medium-journey",
+      "journey_name": "Play Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "fun-medium-journey",
+      "journey_name": "Play Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "fun-medium-journey",
+      "journey_name": "Play Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "fun-medium-journey",
+      "journey_name": "Play Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "fun-deep-journey",
+      "journey_name": "Play Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "fun-deep-journey",
+      "journey_name": "Play Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "fun-deep-journey",
+      "journey_name": "Play Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore play together with one focused check-in.",
+    "type": "journey",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:fun:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "fun-deep-journey",
+      "journey_name": "Play Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "conflict-light-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "conflict-light-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "conflict-light-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "conflict-light-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "conflict-medium-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "conflict-medium-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "conflict-medium-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "conflict-medium-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "conflict-deep-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "conflict-deep-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "conflict-deep-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore repair together with one focused check-in.",
+    "type": "journey",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:conflict:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "conflict-deep-journey",
+      "journey_name": "Repair Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "gratitude-light-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "gratitude-light-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "gratitude-light-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "gratitude-light-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "gratitude-medium-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "gratitude-medium-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "gratitude-medium-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "gratitude-medium-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "gratitude-deep-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "gratitude-deep-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "gratitude-deep-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore appreciation together with one focused check-in.",
+    "type": "journey",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:gratitude:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "gratitude-deep-journey",
+      "journey_name": "Appreciation Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "future-light-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "future-light-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "future-light-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "future-light-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "future-medium-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "future-medium-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "future-medium-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "future-medium-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "future-deep-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "future-deep-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "future-deep-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore the future together with one focused check-in.",
+    "type": "journey",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:future:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "future-deep-journey",
+      "journey_name": "The Future Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "childhood-light-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "childhood-light-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "childhood-light-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "childhood-light-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "childhood-medium-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "childhood-medium-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "childhood-medium-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "childhood-medium-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "childhood-deep-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "childhood-deep-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "childhood-deep-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore childhood together with one focused check-in.",
+    "type": "journey",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:childhood:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "childhood-deep-journey",
+      "journey_name": "Childhood Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "travel-light-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "travel-light-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "travel-light-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "travel-light-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "travel-medium-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "travel-medium-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "travel-medium-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "travel-medium-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "travel-deep-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "travel-deep-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "travel-deep-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore adventure together with one focused check-in.",
+    "type": "journey",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:travel:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "travel-deep-journey",
+      "journey_name": "Adventure Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "self-growth-light-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "self-growth-light-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "self-growth-light-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "self-growth-light-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "self-growth-medium-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "self-growth-medium-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "self-growth-medium-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "self-growth-medium-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "self-growth-deep-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "self-growth-deep-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "self-growth-deep-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore growth together with one focused check-in.",
+    "type": "journey",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:self_growth:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "self-growth-deep-journey",
+      "journey_name": "Growth Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "finances-light-journey",
+      "journey_name": "Money Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "finances-light-journey",
+      "journey_name": "Money Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "finances-light-journey",
+      "journey_name": "Money Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "finances-light-journey",
+      "journey_name": "Money Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "finances-medium-journey",
+      "journey_name": "Money Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "finances-medium-journey",
+      "journey_name": "Money Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "finances-medium-journey",
+      "journey_name": "Money Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "finances-medium-journey",
+      "journey_name": "Money Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "finances-deep-journey",
+      "journey_name": "Money Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "finances-deep-journey",
+      "journey_name": "Money Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "finances-deep-journey",
+      "journey_name": "Money Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore money together with one focused check-in.",
+    "type": "journey",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:finances:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "finances-deep-journey",
+      "journey_name": "Money Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "family-light-journey",
+      "journey_name": "Family Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "family-light-journey",
+      "journey_name": "Family Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "family-light-journey",
+      "journey_name": "Family Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "family-light-journey",
+      "journey_name": "Family Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "family-medium-journey",
+      "journey_name": "Family Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "family-medium-journey",
+      "journey_name": "Family Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "family-medium-journey",
+      "journey_name": "Family Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "family-medium-journey",
+      "journey_name": "Family Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "family-deep-journey",
+      "journey_name": "Family Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "family-deep-journey",
+      "journey_name": "Family Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "family-deep-journey",
+      "journey_name": "Family Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore family together with one focused check-in.",
+    "type": "journey",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:family:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "family-deep-journey",
+      "journey_name": "Family Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "friendship-light-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "friendship-light-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "friendship-light-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "friendship-light-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "friendship-medium-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "friendship-medium-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "friendship-medium-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "friendship-medium-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "friendship-deep-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "friendship-deep-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "friendship-deep-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore friendship together with one focused check-in.",
+    "type": "journey",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:friendship:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "friendship-deep-journey",
+      "journey_name": "Friendship Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "health-light-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "health-light-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "health-light-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "health-light-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "health-medium-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "health-medium-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "health-medium-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "health-medium-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "health-deep-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "health-deep-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "health-deep-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore wellbeing together with one focused check-in.",
+    "type": "journey",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:health:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "health-deep-journey",
+      "journey_name": "Wellbeing Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "dreams-light-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "dreams-light-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "dreams-light-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "dreams-light-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "dreams-medium-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "dreams-medium-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "dreams-medium-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "dreams-medium-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "dreams-deep-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "dreams-deep-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "dreams-deep-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore dreams together with one focused check-in.",
+    "type": "journey",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:dreams:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "dreams-deep-journey",
+      "journey_name": "Dreams Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "values-light-journey",
+      "journey_name": "Values Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "values-light-journey",
+      "journey_name": "Values Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "values-light-journey",
+      "journey_name": "Values Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "values-light-journey",
+      "journey_name": "Values Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "values-medium-journey",
+      "journey_name": "Values Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "values-medium-journey",
+      "journey_name": "Values Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "values-medium-journey",
+      "journey_name": "Values Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "values-medium-journey",
+      "journey_name": "Values Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "values-deep-journey",
+      "journey_name": "Values Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "values-deep-journey",
+      "journey_name": "Values Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "values-deep-journey",
+      "journey_name": "Values Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore values together with one focused check-in.",
+    "type": "journey",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:values:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "values-deep-journey",
+      "journey_name": "Values Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "memories-light-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "memories-light-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "memories-light-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "journey_id": "memories-light-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "memories-medium-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "memories-medium-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "memories-medium-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "journey_id": "memories-medium-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 1: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "memories-deep-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 1,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 2: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "memories-deep-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 2,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 3: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "memories-deep-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 3,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Day 4: explore memories together with one focused check-in.",
+    "type": "journey",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "journey:memories:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "journey_id": "memories-deep-journey",
+      "journey_name": "Memories Reset",
+      "day_number": 4,
+      "total_days": 7,
+      "answer_prompt": "Complete the day together and note one thing you learned."
+    },
+    "is_active": true
+  }
+]

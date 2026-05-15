@@ -1,0 +1,4610 @@
+[
+  {
+    "text": "Which option would your partner most want for communication this week?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for communication tonight?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for communication during a quiet moment?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for communication the next time we check in?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for communication this week?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for communication tonight?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for communication during a quiet moment?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for communication the next time we check in?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for communication this week?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for communication tonight?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for communication during a quiet moment?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for communication the next time we check in?",
+    "type": "quiz",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:communication:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of communication",
+        "A practical plan for communication",
+        "A playful surprise around communication",
+        "A deeper talk about communication"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness this week?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness tonight?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness during a quiet moment?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness the next time we check in?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness this week?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness tonight?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness during a quiet moment?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness the next time we check in?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness this week?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness tonight?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness during a quiet moment?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for closeness the next time we check in?",
+    "type": "quiz",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:intimacy:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of closeness",
+        "A practical plan for closeness",
+        "A playful surprise around closeness",
+        "A deeper talk about closeness"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play this week?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play tonight?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play during a quiet moment?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play the next time we check in?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play this week?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play tonight?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play during a quiet moment?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play the next time we check in?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play this week?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play tonight?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play during a quiet moment?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for play the next time we check in?",
+    "type": "quiz",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:fun:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of play",
+        "A practical plan for play",
+        "A playful surprise around play",
+        "A deeper talk about play"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair this week?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair tonight?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair during a quiet moment?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair the next time we check in?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair this week?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair tonight?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair during a quiet moment?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair the next time we check in?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair this week?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair tonight?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair during a quiet moment?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for repair the next time we check in?",
+    "type": "quiz",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:conflict:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of repair",
+        "A practical plan for repair",
+        "A playful surprise around repair",
+        "A deeper talk about repair"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation this week?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation tonight?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation during a quiet moment?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation the next time we check in?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation this week?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation tonight?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation during a quiet moment?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation the next time we check in?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation this week?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation tonight?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation during a quiet moment?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for appreciation the next time we check in?",
+    "type": "quiz",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:gratitude:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of appreciation",
+        "A practical plan for appreciation",
+        "A playful surprise around appreciation",
+        "A deeper talk about appreciation"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future this week?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future tonight?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future during a quiet moment?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future the next time we check in?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future this week?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future tonight?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future during a quiet moment?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future the next time we check in?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future this week?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future tonight?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future during a quiet moment?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for the future the next time we check in?",
+    "type": "quiz",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:future:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of the future",
+        "A practical plan for the future",
+        "A playful surprise around the future",
+        "A deeper talk about the future"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood this week?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood tonight?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood during a quiet moment?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood the next time we check in?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood this week?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood tonight?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood during a quiet moment?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood the next time we check in?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood this week?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood tonight?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood during a quiet moment?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for childhood the next time we check in?",
+    "type": "quiz",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:childhood:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of childhood",
+        "A practical plan for childhood",
+        "A playful surprise around childhood",
+        "A deeper talk about childhood"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure this week?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure tonight?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure during a quiet moment?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure the next time we check in?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure this week?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure tonight?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure during a quiet moment?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure the next time we check in?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure this week?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure tonight?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure during a quiet moment?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for adventure the next time we check in?",
+    "type": "quiz",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:travel:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of adventure",
+        "A practical plan for adventure",
+        "A playful surprise around adventure",
+        "A deeper talk about adventure"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth this week?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth tonight?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth during a quiet moment?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth the next time we check in?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth this week?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth tonight?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth during a quiet moment?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth the next time we check in?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth this week?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth tonight?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth during a quiet moment?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for growth the next time we check in?",
+    "type": "quiz",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:self_growth:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of growth",
+        "A practical plan for growth",
+        "A playful surprise around growth",
+        "A deeper talk about growth"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money this week?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money tonight?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money during a quiet moment?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money the next time we check in?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money this week?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money tonight?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money during a quiet moment?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money the next time we check in?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money this week?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money tonight?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money during a quiet moment?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for money the next time we check in?",
+    "type": "quiz",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:finances:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of money",
+        "A practical plan for money",
+        "A playful surprise around money",
+        "A deeper talk about money"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family this week?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family tonight?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family during a quiet moment?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family the next time we check in?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family this week?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family tonight?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family during a quiet moment?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family the next time we check in?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family this week?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family tonight?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family during a quiet moment?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for family the next time we check in?",
+    "type": "quiz",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:family:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of family",
+        "A practical plan for family",
+        "A playful surprise around family",
+        "A deeper talk about family"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship this week?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship tonight?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship during a quiet moment?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship the next time we check in?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship this week?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship tonight?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship during a quiet moment?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship the next time we check in?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship this week?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship tonight?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship during a quiet moment?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for friendship the next time we check in?",
+    "type": "quiz",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:friendship:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of friendship",
+        "A practical plan for friendship",
+        "A playful surprise around friendship",
+        "A deeper talk about friendship"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing this week?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing tonight?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing during a quiet moment?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing the next time we check in?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing this week?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing tonight?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing during a quiet moment?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing the next time we check in?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing this week?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing tonight?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing during a quiet moment?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for wellbeing the next time we check in?",
+    "type": "quiz",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:health:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of wellbeing",
+        "A practical plan for wellbeing",
+        "A playful surprise around wellbeing",
+        "A deeper talk about wellbeing"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams this week?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams tonight?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams during a quiet moment?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams the next time we check in?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams this week?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams tonight?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams during a quiet moment?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams the next time we check in?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams this week?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams tonight?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams during a quiet moment?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for dreams the next time we check in?",
+    "type": "quiz",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:dreams:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of dreams",
+        "A practical plan for dreams",
+        "A playful surprise around dreams",
+        "A deeper talk about dreams"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values this week?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values tonight?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values during a quiet moment?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values the next time we check in?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values this week?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values tonight?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values during a quiet moment?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values the next time we check in?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values this week?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values tonight?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values during a quiet moment?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for values the next time we check in?",
+    "type": "quiz",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:values:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of values",
+        "A practical plan for values",
+        "A playful surprise around values",
+        "A deeper talk about values"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories this week?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories tonight?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories during a quiet moment?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories the next time we check in?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories this week?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories tonight?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories during a quiet moment?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories the next time we check in?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories this week?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 1,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories tonight?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 2,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories during a quiet moment?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 3,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Which option would your partner most want for memories the next time we check in?",
+    "type": "quiz",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "quiz:memories:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "options": [
+        "A quiet moment of memories",
+        "A practical plan for memories",
+        "A playful surprise around memories",
+        "A deeper talk about memories"
+      ],
+      "answer_index": 0,
+      "scoring": "partner_match",
+      "prompt_for_partner": "Pick your real answer. Your partner guesses before the reveal."
+    },
+    "is_active": true
+  }
+]

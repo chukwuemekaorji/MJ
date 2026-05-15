@@ -1,0 +1,3650 @@
+[
+  {
+    "text": "Communication Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Communication Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Communication Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Communication Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Communication Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Communication Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Communication Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Communication Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Communication Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Communication Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Communication Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Communication Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Communication Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Communication Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Communication Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Communication Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Communication Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Communication Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Communication Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Communication Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Communication Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Communication Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Communication Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:communication:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Communication Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about communication."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Closeness Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Closeness Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Closeness Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Closeness Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Closeness Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Closeness Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Closeness Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Closeness Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Closeness Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Closeness Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Closeness Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Closeness Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:intimacy:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Closeness Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about closeness."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Play Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Play Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Play Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Play Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Play Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Play Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Play Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Play Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Play Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Play Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Play Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Play Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:fun:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Play Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about play."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Repair Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Repair Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Repair Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Repair Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Repair Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Repair Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Repair Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Repair Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Repair Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Repair Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Repair Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Repair Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:conflict:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Repair Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about repair."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Appreciation Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Appreciation Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Appreciation Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Appreciation Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Appreciation Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Appreciation Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Appreciation Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Appreciation Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Appreciation Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Appreciation Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Appreciation Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Appreciation Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:gratitude:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Appreciation Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about appreciation."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "The Future Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "The Future Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "The Future Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "The Future Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "The Future Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "The Future Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "The Future Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "The Future Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "The Future Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "The Future Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "The Future Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "The Future Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:future:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "The Future Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about the future."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Childhood Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Childhood Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Childhood Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Childhood Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Childhood Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Childhood Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Childhood Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Childhood Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Childhood Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Childhood Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Childhood Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Childhood Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:childhood:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Childhood Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about childhood."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Adventure Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Adventure Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Adventure Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Adventure Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Adventure Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Adventure Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Adventure Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Adventure Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Adventure Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Adventure Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Adventure Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Adventure Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:travel:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Adventure Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about adventure."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Growth Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Growth Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Growth Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Growth Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Growth Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Growth Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Growth Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Growth Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Growth Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Growth Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Growth Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Growth Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:self_growth:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Growth Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about growth."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Money Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Money Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Money Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Money Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Money Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Money Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Money Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Money Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Money Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Money Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Money Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Money Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:finances:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Money Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about money."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Family Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Family Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Family Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Family Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Family Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Family Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Family Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Family Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Family Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Family Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Family Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Family Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:family:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Family Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about family."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Friendship Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Friendship Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Friendship Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Friendship Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Friendship Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Friendship Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Friendship Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Friendship Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Friendship Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Friendship Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Friendship Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Friendship Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:friendship:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Friendship Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about friendship."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Wellbeing Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Wellbeing Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Wellbeing Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Wellbeing Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Wellbeing Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Wellbeing Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Wellbeing Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Wellbeing Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Wellbeing Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Wellbeing Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Wellbeing Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Wellbeing Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:health:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Wellbeing Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about wellbeing."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Dreams Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Dreams Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Dreams Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Dreams Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Dreams Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Dreams Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Dreams Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Dreams Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Dreams Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Dreams Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Dreams Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Dreams Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:dreams:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Dreams Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about dreams."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Values Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Values Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Values Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Values Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Values Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Values Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Values Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Values Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Values Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Values Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Values Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Values Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:values:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Values Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about values."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Light Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Memories Light Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Light Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Memories Light Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Light Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Memories Light Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Light Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "pack_name": "Memories Light Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Medium Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Memories Medium Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Medium Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Memories Medium Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Medium Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Memories Medium Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Medium Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "pack_name": "Memories Medium Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Deep Pack: question 1 for this week",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Memories Deep Pack",
+      "pack_order": 1,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Deep Pack: question 2 for tonight",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Memories Deep Pack",
+      "pack_order": 2,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Deep Pack: question 3 for during a quiet moment",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Memories Deep Pack",
+      "pack_order": 3,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  },
+  {
+    "text": "Memories Deep Pack: question 4 for the next time we check in",
+    "type": "question_pack",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "question_pack:memories:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "pack_name": "Memories Deep Pack",
+      "pack_order": 4,
+      "pack_size": 4,
+      "answer_prompt": "Use this as a shared conversation starter about memories."
+    },
+    "is_active": true
+  }
+]

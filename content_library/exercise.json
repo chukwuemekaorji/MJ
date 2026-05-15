@@ -1,0 +1,4226 @@
+[
+  {
+    "text": "A short communication exercise for two this week.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short communication exercise for two tonight.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short communication exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short communication exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short communication exercise for two this week.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short communication exercise for two tonight.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short communication exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short communication exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short communication exercise for two this week.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short communication exercise for two tonight.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short communication exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short communication exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:communication:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about communication.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two this week.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two tonight.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two this week.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two tonight.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two this week.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two tonight.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short closeness exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:intimacy:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about closeness.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two this week.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two tonight.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two this week.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two tonight.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two this week.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two tonight.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short play exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:fun:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about play.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two this week.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two tonight.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two this week.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two tonight.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two this week.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two tonight.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short repair exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:conflict:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about repair.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two this week.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two tonight.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two this week.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two tonight.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two this week.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two tonight.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short appreciation exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:gratitude:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about appreciation.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two this week.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two tonight.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two this week.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two tonight.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two this week.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two tonight.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short the future exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:future:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about the future.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two this week.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two tonight.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two this week.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two tonight.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two this week.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two tonight.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short childhood exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:childhood:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about childhood.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two this week.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two tonight.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two this week.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two tonight.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two this week.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two tonight.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short adventure exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:travel:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about adventure.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two this week.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two tonight.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two this week.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two tonight.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two this week.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two tonight.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short growth exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:self_growth:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about growth.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two this week.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two tonight.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two this week.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two tonight.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two this week.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two tonight.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short money exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:finances:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about money.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two this week.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two tonight.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two this week.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two tonight.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two this week.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two tonight.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short family exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:family:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about family.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two this week.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two tonight.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two this week.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two tonight.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two this week.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two tonight.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short friendship exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:friendship:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about friendship.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two this week.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two tonight.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two this week.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two tonight.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two this week.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two tonight.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short wellbeing exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:health:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about wellbeing.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two this week.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two tonight.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two this week.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two tonight.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two this week.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two tonight.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short dreams exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:dreams:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about dreams.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two this week.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two tonight.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two this week.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two tonight.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two this week.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two tonight.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short values exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:values:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about values.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two this week.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two tonight.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two this week.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two tonight.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two this week.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 10
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two tonight.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 12
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two during a quiet moment.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 14
+    },
+    "is_active": true
+  },
+  {
+    "text": "A short memories exercise for two the next time we check in.",
+    "type": "exercise",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "exercise:memories:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "steps": [
+        "Each partner writes one sentence about memories.",
+        "Take turns reading without interrupting.",
+        "Reflect back what you heard in your own words.",
+        "Agree on one small action before you finish."
+      ],
+      "duration_minutes": 16
+    },
+    "is_active": true
+  }
+]

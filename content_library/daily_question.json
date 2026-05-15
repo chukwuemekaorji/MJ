@@ -1,0 +1,3074 @@
+[
+  {
+    "text": "What is one small thing about communication you want us to notice this week?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about communication you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about communication you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about communication you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about communication you want us to notice this week?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about communication you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about communication you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about communication you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about communication you want us to notice this week?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about communication you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about communication you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about communication you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:communication:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the communication moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about closeness you want us to notice this week?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about closeness you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about closeness you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about closeness you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about closeness you want us to notice this week?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about closeness you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about closeness you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about closeness you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about closeness you want us to notice this week?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about closeness you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about closeness you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about closeness you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:intimacy:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the closeness moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about play you want us to notice this week?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about play you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about play you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about play you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about play you want us to notice this week?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about play you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about play you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about play you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about play you want us to notice this week?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about play you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about play you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about play you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:fun:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the play moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about repair you want us to notice this week?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about repair you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about repair you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about repair you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about repair you want us to notice this week?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about repair you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about repair you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about repair you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about repair you want us to notice this week?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about repair you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about repair you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about repair you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:conflict:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the repair moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about appreciation you want us to notice this week?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about appreciation you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about appreciation you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about appreciation you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about appreciation you want us to notice this week?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about appreciation you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about appreciation you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about appreciation you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about appreciation you want us to notice this week?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about appreciation you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about appreciation you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about appreciation you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:gratitude:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the appreciation moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about the future you want us to notice this week?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about the future you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about the future you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about the future you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about the future you want us to notice this week?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about the future you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about the future you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about the future you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about the future you want us to notice this week?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about the future you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about the future you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about the future you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:future:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the the future moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about childhood you want us to notice this week?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about childhood you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about childhood you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about childhood you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about childhood you want us to notice this week?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about childhood you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about childhood you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about childhood you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about childhood you want us to notice this week?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about childhood you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about childhood you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about childhood you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:childhood:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the childhood moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about adventure you want us to notice this week?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about adventure you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about adventure you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about adventure you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about adventure you want us to notice this week?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about adventure you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about adventure you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about adventure you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about adventure you want us to notice this week?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about adventure you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about adventure you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about adventure you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:travel:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the adventure moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about growth you want us to notice this week?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about growth you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about growth you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about growth you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about growth you want us to notice this week?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about growth you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about growth you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about growth you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about growth you want us to notice this week?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about growth you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about growth you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about growth you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:self_growth:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the growth moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about money you want us to notice this week?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about money you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about money you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about money you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about money you want us to notice this week?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about money you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about money you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about money you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about money you want us to notice this week?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about money you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about money you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about money you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:finances:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the money moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about family you want us to notice this week?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about family you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about family you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about family you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about family you want us to notice this week?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about family you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about family you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about family you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about family you want us to notice this week?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about family you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about family you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about family you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:family:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the family moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about friendship you want us to notice this week?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about friendship you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about friendship you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about friendship you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about friendship you want us to notice this week?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about friendship you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about friendship you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about friendship you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about friendship you want us to notice this week?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about friendship you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about friendship you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about friendship you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:friendship:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the friendship moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about wellbeing you want us to notice this week?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about wellbeing you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about wellbeing you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about wellbeing you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about wellbeing you want us to notice this week?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about wellbeing you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about wellbeing you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about wellbeing you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about wellbeing you want us to notice this week?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about wellbeing you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about wellbeing you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about wellbeing you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:health:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the wellbeing moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about dreams you want us to notice this week?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about dreams you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about dreams you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about dreams you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about dreams you want us to notice this week?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about dreams you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about dreams you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about dreams you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about dreams you want us to notice this week?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about dreams you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about dreams you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about dreams you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:dreams:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the dreams moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about values you want us to notice this week?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about values you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about values you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about values you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about values you want us to notice this week?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about values you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about values you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about values you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about values you want us to notice this week?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about values you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about values you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about values you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:values:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the values moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about memories you want us to notice this week?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about memories you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about memories you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one small thing about memories you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about memories you want us to notice this week?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about memories you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about memories you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one honest thing about memories you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about memories you want us to notice this week?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about memories you want us to notice tonight?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about memories you want us to notice during a quiet moment?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What is one important thing about memories you want us to notice the next time we check in?",
+    "type": "daily_question",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "daily_question:memories:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "answer_prompt": "Answer in 2-4 sentences. Name the memories moment, why it matters, and one tiny next step."
+    },
+    "is_active": true
+  }
+]

@@ -1,0 +1,3266 @@
+[
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about communication?",
+    "type": "insight_prompt",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:communication:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about closeness?",
+    "type": "insight_prompt",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:intimacy:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about play?",
+    "type": "insight_prompt",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:fun:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about repair?",
+    "type": "insight_prompt",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:conflict:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about appreciation?",
+    "type": "insight_prompt",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:gratitude:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about the future?",
+    "type": "insight_prompt",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:future:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about childhood?",
+    "type": "insight_prompt",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:childhood:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about adventure?",
+    "type": "insight_prompt",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:travel:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about growth?",
+    "type": "insight_prompt",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:self_growth:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about money?",
+    "type": "insight_prompt",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:finances:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about family?",
+    "type": "insight_prompt",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:family:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about friendship?",
+    "type": "insight_prompt",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:friendship:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about wellbeing?",
+    "type": "insight_prompt",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:health:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about dreams?",
+    "type": "insight_prompt",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:dreams:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about values?",
+    "type": "insight_prompt",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:values:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "comparison",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "growth",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  },
+  {
+    "text": "What pattern do our recent answers reveal about memories?",
+    "type": "insight_prompt",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "insight_prompt:memories:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "insight_type": "reflection",
+      "answer_prompt": "Look across both answers and summarize one strength, one gap, and one next experiment."
+    },
+    "is_active": true
+  }
+]

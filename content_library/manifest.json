@@ -1,0 +1,36 @@
+{
+  "total": 1536,
+  "content_types": {
+    "daily_question": 192,
+    "couple_question": 192,
+    "quiz": 192,
+    "game": 192,
+    "exercise": 192,
+    "question_pack": 192,
+    "journey": 192,
+    "insight_prompt": 192
+  },
+  "categories": [
+    "communication",
+    "intimacy",
+    "fun",
+    "conflict",
+    "gratitude",
+    "future",
+    "childhood",
+    "travel",
+    "self_growth",
+    "finances",
+    "family",
+    "friendship",
+    "health",
+    "dreams",
+    "values",
+    "memories"
+  ],
+  "tones": [
+    "light",
+    "medium",
+    "deep"
+  ]
+}

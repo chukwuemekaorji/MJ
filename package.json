@@ -1,0 +1,41 @@
+{
+  "name": "mj-daily-question",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint app lib eslint.config.mjs next.config.mjs postcss.config.js postcss.config.mjs tailwind.config.js tailwind.config.ts",
+    "seed:library": "python python/seed_library.py",
+    "seed:library:json": "python python/seed_library.py --json-dir content_library --target-total 1536"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.38.0",
+    "@supabase/supabase-js": "^2.105.4",
+    "next": "^15.5.18",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.19",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.1.2",
+    "autoprefixer": "^10.5.0",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^15.5.18",
+    "postcss": "^8.5.14",
+    "tailwindcss": "^3.4.19",
+    "typescript": "^5.9.3"
+  },
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

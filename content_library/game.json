@@ -1,0 +1,3650 @@
+[
+  {
+    "text": "Choose one for a communication mini-game this week.",
+    "type": "game",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a communication mini-game tonight.",
+    "type": "game",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a communication mini-game during a quiet moment.",
+    "type": "game",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a communication mini-game the next time we check in.",
+    "type": "game",
+    "category": "communication",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a communication mini-game this week.",
+    "type": "game",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a communication mini-game tonight.",
+    "type": "game",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a communication mini-game during a quiet moment.",
+    "type": "game",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a communication mini-game the next time we check in.",
+    "type": "game",
+    "category": "communication",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a communication mini-game this week.",
+    "type": "game",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a communication mini-game tonight.",
+    "type": "game",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a communication mini-game during a quiet moment.",
+    "type": "game",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a communication mini-game the next time we check in.",
+    "type": "game",
+    "category": "communication",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:communication:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about communication",
+      "option_b": "Do one small shared action about communication",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game this week.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game tonight.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game during a quiet moment.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game the next time we check in.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game this week.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game tonight.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game during a quiet moment.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game the next time we check in.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game this week.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game tonight.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game during a quiet moment.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a closeness mini-game the next time we check in.",
+    "type": "game",
+    "category": "intimacy",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:intimacy:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about closeness",
+      "option_b": "Do one small shared action about closeness",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game this week.",
+    "type": "game",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game tonight.",
+    "type": "game",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game during a quiet moment.",
+    "type": "game",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game the next time we check in.",
+    "type": "game",
+    "category": "fun",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game this week.",
+    "type": "game",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game tonight.",
+    "type": "game",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game during a quiet moment.",
+    "type": "game",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game the next time we check in.",
+    "type": "game",
+    "category": "fun",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game this week.",
+    "type": "game",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game tonight.",
+    "type": "game",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game during a quiet moment.",
+    "type": "game",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a play mini-game the next time we check in.",
+    "type": "game",
+    "category": "fun",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:fun:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about play",
+      "option_b": "Do one small shared action about play",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game this week.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game tonight.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game during a quiet moment.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game the next time we check in.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game this week.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game tonight.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game during a quiet moment.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game the next time we check in.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game this week.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game tonight.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game during a quiet moment.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a repair mini-game the next time we check in.",
+    "type": "game",
+    "category": "conflict",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:conflict:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about repair",
+      "option_b": "Do one small shared action about repair",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game this week.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game tonight.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game during a quiet moment.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game the next time we check in.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game this week.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game tonight.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game during a quiet moment.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game the next time we check in.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game this week.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game tonight.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game during a quiet moment.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a appreciation mini-game the next time we check in.",
+    "type": "game",
+    "category": "gratitude",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:gratitude:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about appreciation",
+      "option_b": "Do one small shared action about appreciation",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game this week.",
+    "type": "game",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game tonight.",
+    "type": "game",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game during a quiet moment.",
+    "type": "game",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game the next time we check in.",
+    "type": "game",
+    "category": "future",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game this week.",
+    "type": "game",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game tonight.",
+    "type": "game",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game during a quiet moment.",
+    "type": "game",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game the next time we check in.",
+    "type": "game",
+    "category": "future",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game this week.",
+    "type": "game",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game tonight.",
+    "type": "game",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game during a quiet moment.",
+    "type": "game",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a the future mini-game the next time we check in.",
+    "type": "game",
+    "category": "future",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:future:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about the future",
+      "option_b": "Do one small shared action about the future",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game this week.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game tonight.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game during a quiet moment.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game the next time we check in.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game this week.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game tonight.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game during a quiet moment.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game the next time we check in.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game this week.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game tonight.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game during a quiet moment.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a childhood mini-game the next time we check in.",
+    "type": "game",
+    "category": "childhood",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:childhood:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about childhood",
+      "option_b": "Do one small shared action about childhood",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game this week.",
+    "type": "game",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game tonight.",
+    "type": "game",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game during a quiet moment.",
+    "type": "game",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game the next time we check in.",
+    "type": "game",
+    "category": "travel",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game this week.",
+    "type": "game",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game tonight.",
+    "type": "game",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game during a quiet moment.",
+    "type": "game",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game the next time we check in.",
+    "type": "game",
+    "category": "travel",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game this week.",
+    "type": "game",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game tonight.",
+    "type": "game",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game during a quiet moment.",
+    "type": "game",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a adventure mini-game the next time we check in.",
+    "type": "game",
+    "category": "travel",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:travel:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about adventure",
+      "option_b": "Do one small shared action about adventure",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game this week.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game tonight.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game during a quiet moment.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game the next time we check in.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game this week.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game tonight.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game during a quiet moment.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game the next time we check in.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game this week.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game tonight.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game during a quiet moment.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a growth mini-game the next time we check in.",
+    "type": "game",
+    "category": "self_growth",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:self_growth:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about growth",
+      "option_b": "Do one small shared action about growth",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game this week.",
+    "type": "game",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game tonight.",
+    "type": "game",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game during a quiet moment.",
+    "type": "game",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game the next time we check in.",
+    "type": "game",
+    "category": "finances",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game this week.",
+    "type": "game",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game tonight.",
+    "type": "game",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game during a quiet moment.",
+    "type": "game",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game the next time we check in.",
+    "type": "game",
+    "category": "finances",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game this week.",
+    "type": "game",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game tonight.",
+    "type": "game",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game during a quiet moment.",
+    "type": "game",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a money mini-game the next time we check in.",
+    "type": "game",
+    "category": "finances",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:finances:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about money",
+      "option_b": "Do one small shared action about money",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game this week.",
+    "type": "game",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game tonight.",
+    "type": "game",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game during a quiet moment.",
+    "type": "game",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game the next time we check in.",
+    "type": "game",
+    "category": "family",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game this week.",
+    "type": "game",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game tonight.",
+    "type": "game",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game during a quiet moment.",
+    "type": "game",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game the next time we check in.",
+    "type": "game",
+    "category": "family",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game this week.",
+    "type": "game",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game tonight.",
+    "type": "game",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game during a quiet moment.",
+    "type": "game",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a family mini-game the next time we check in.",
+    "type": "game",
+    "category": "family",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:family:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about family",
+      "option_b": "Do one small shared action about family",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game this week.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game tonight.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game during a quiet moment.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game the next time we check in.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game this week.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game tonight.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game during a quiet moment.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game the next time we check in.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game this week.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game tonight.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game during a quiet moment.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a friendship mini-game the next time we check in.",
+    "type": "game",
+    "category": "friendship",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:friendship:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about friendship",
+      "option_b": "Do one small shared action about friendship",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game this week.",
+    "type": "game",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game tonight.",
+    "type": "game",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game during a quiet moment.",
+    "type": "game",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game the next time we check in.",
+    "type": "game",
+    "category": "health",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game this week.",
+    "type": "game",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game tonight.",
+    "type": "game",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game during a quiet moment.",
+    "type": "game",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game the next time we check in.",
+    "type": "game",
+    "category": "health",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game this week.",
+    "type": "game",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game tonight.",
+    "type": "game",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game during a quiet moment.",
+    "type": "game",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a wellbeing mini-game the next time we check in.",
+    "type": "game",
+    "category": "health",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:health:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about wellbeing",
+      "option_b": "Do one small shared action about wellbeing",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game this week.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game tonight.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game during a quiet moment.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game the next time we check in.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game this week.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game tonight.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game during a quiet moment.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game the next time we check in.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game this week.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game tonight.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game during a quiet moment.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a dreams mini-game the next time we check in.",
+    "type": "game",
+    "category": "dreams",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:dreams:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about dreams",
+      "option_b": "Do one small shared action about dreams",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game this week.",
+    "type": "game",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game tonight.",
+    "type": "game",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game during a quiet moment.",
+    "type": "game",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game the next time we check in.",
+    "type": "game",
+    "category": "values",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game this week.",
+    "type": "game",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game tonight.",
+    "type": "game",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game during a quiet moment.",
+    "type": "game",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game the next time we check in.",
+    "type": "game",
+    "category": "values",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game this week.",
+    "type": "game",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game tonight.",
+    "type": "game",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game during a quiet moment.",
+    "type": "game",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a values mini-game the next time we check in.",
+    "type": "game",
+    "category": "values",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:values:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about values",
+      "option_b": "Do one small shared action about values",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game this week.",
+    "type": "game",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:light:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game tonight.",
+    "type": "game",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:light:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game during a quiet moment.",
+    "type": "game",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:light:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game the next time we check in.",
+    "type": "game",
+    "category": "memories",
+    "tone": "light",
+    "difficulty": 1,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:light:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Keep it easy, warm, and quick to answer.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game this week.",
+    "type": "game",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:medium:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game tonight.",
+    "type": "game",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:medium:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game during a quiet moment.",
+    "type": "game",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:medium:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game the next time we check in.",
+    "type": "game",
+    "category": "memories",
+    "tone": "medium",
+    "difficulty": 2,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:medium:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Invite honest detail without making it too heavy.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game this week.",
+    "type": "game",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:deep:001",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 1,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game tonight.",
+    "type": "game",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:deep:002",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 2,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game during a quiet moment.",
+    "type": "game",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:deep:003",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 3,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  },
+  {
+    "text": "Choose one for a memories mini-game the next time we check in.",
+    "type": "game",
+    "category": "memories",
+    "tone": "deep",
+    "difficulty": 3,
+    "metadata": {
+      "seed_source": "mj-generated-library-v1",
+      "seed_key": "game:memories:deep:004",
+      "seeded_at": "2026-05-15T17:40:44.541536+00:00",
+      "variant": 4,
+      "tone_guidance": "Make space for vulnerability, care, and thoughtful follow-up.",
+      "option_a": "Ask three quick questions about memories",
+      "option_b": "Do one small shared action about memories",
+      "rounds": 3,
+      "win_condition": "connection, not points"
+    },
+    "is_active": true
+  }
+]
