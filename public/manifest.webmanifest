@@ -1,12 +1,10 @@
 {
-  "name": "MJ Daily Question",
-  "short_name": "MJ Daily",
-  "description": "A daily question app with optional on-demand content generation.",
+  "name": "MJ – Couples Space",
+  "short_name": "MJ",
   "start_url": "/",
-  "scope": "/",
   "display": "standalone",
-  "background_color": "#f5efe3",
-  "theme_color": "#153042",
+  "background_color": "#F8DDE8",
+  "theme_color": "#F8DDE8",
   "icons": [
     {
       "src": "/icon-192x192.png",
