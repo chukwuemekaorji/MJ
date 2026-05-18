@@ -151,7 +151,7 @@ export default function PlayPage() {
                         transform: picked === opt ? 'scale(1.03)' : 'scale(1)',
                       }}
                     >
-                      {current.metadata[opt] as string}
+                      {String(current.metadata[opt] ?? '')}
                     </button>
                   ))}
                   {picked && (
@@ -179,9 +179,9 @@ export default function PlayPage() {
                       {opt}
                     </button>
                   ))}
-                  {current.metadata.instructions && (
+                  {typeof current.metadata.instructions === 'string' && (
                     <p className="text-xs text-gray-400 text-center pt-1 italic">
-                      {current.metadata.instructions as string}
+                      {current.metadata.instructions}
                     </p>
                   )}
                 </div>
@@ -201,9 +201,9 @@ export default function PlayPage() {
                       <span className="leading-relaxed">{step}</span>
                     </div>
                   ))}
-                  {current.metadata.duration_minutes && (
+                  {typeof current.metadata.duration_minutes === 'number' && (
                     <p className="text-xs text-pink-300 font-semibold pt-1">
-                      ⏱ {current.metadata.duration_minutes as number} minutes
+                      ⏱ {current.metadata.duration_minutes} minutes
                     </p>
                   )}
                 </div>
