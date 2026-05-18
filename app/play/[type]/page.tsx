@@ -26,12 +26,6 @@ const LABELS: Record<string, string> = {
   spicy: 'Spicy 🌶️',
 };
 
-const TONE_BADGE: Record<string, { bg: string; text: string }> = {
-  light: { bg: '#E8F5E9', text: '#4CAF50' },
-  medium: { bg: '#FFF3E0', text: '#FF9800' },
-  deep: { bg: '#FCE4EC', text: '#E91E63' },
-};
-
 export default function PlayPage() {
   const router = useRouter();
   const params = useParams();
@@ -45,11 +39,9 @@ export default function PlayPage() {
   useEffect(() => {
     const stored = getStoredCouple();
     if (!stored) { router.replace('/'); return; }
-
     fetch(`/api/content?type=${encodeURIComponent(type)}&coupleId=${stored.coupleId}&limit=30`)
       .then(r => r.json())
       .then(data => {
-        // Shuffle so every session feels fresh
         const shuffled = (data.content ?? []).sort(() => Math.random() - 0.5);
         setItems(shuffled);
         setLoading(false);
@@ -58,33 +50,23 @@ export default function PlayPage() {
 
   const current = items[index];
 
-  function next() {
-    setPicked(null);
-    setIndex(i => Math.min(i + 1, items.length - 1));
-  }
+  function next() { setPicked(null); setIndex(i => Math.min(i + 1, items.length - 1)); }
+  function prev() { setPicked(null); setIndex(i => Math.max(i - 1, 0)); }
 
-  function prev() {
-    setPicked(null);
-    setIndex(i => Math.max(i - 1, 0));
-  }
-
-  const isWYR = !!current?.metadata?.option_a;
-  const isQuiz = Array.isArray(current?.metadata?.options);
+  const isWYR   = !!current?.metadata?.option_a;
+  const isQuiz  = Array.isArray(current?.metadata?.options);
   const hasSteps = Array.isArray(current?.metadata?.steps);
-  const toneBadge = current ? (TONE_BADGE[current.tone] ?? TONE_BADGE.medium) : TONE_BADGE.medium;
+  const toneClass = `tone-${current?.tone ?? 'medium'}`;
 
   return (
-    <main
-      className="min-h-screen flex flex-col"
-      style={{ background: 'linear-gradient(160deg, #FCEAF2 0%, #F8DDE8 100%)' }}
-    >
+    <main className="min-h-screen flex flex-col play-bg">
+
       {/* Header */}
       <div className="flex items-center px-4 pt-8 pb-4 max-w-sm mx-auto w-full">
         <button
           type="button"
           onClick={() => router.push('/home')}
-          className="text-pink-400 text-xl font-bold mr-3 w-8 h-8 flex items-center justify-center rounded-full"
-          style={{ backgroundColor: 'rgba(255,255,255,0.6)' }}
+          className="text-pink-400 text-xl font-bold mr-3 w-8 h-8 flex items-center justify-center rounded-full back-btn-glass"
         >
           ←
         </button>
@@ -109,10 +91,7 @@ export default function PlayPage() {
 
             {/* Badges */}
             <div className="flex gap-2 mb-4 justify-center flex-wrap">
-              <span
-                className="text-xs px-3 py-1 rounded-full font-semibold"
-                style={{ backgroundColor: toneBadge.bg, color: toneBadge.text }}
-              >
+              <span className={`text-xs px-3 py-1 rounded-full font-semibold ${toneClass}`}>
                 {current.tone}
               </span>
               <span className="text-xs px-3 py-1 rounded-full font-semibold bg-pink-100 text-pink-400">
@@ -124,16 +103,8 @@ export default function PlayPage() {
             </div>
 
             {/* Main card */}
-            <div
-              className="rounded-3xl p-6 space-y-5"
-              style={{
-                backgroundColor: 'white',
-                boxShadow: '0 8px 40px rgba(232,168,196,0.35)',
-              }}
-            >
-              <p className="text-gray-700 text-lg font-medium leading-snug text-center">
-                {current.text}
-              </p>
+            <div className="rounded-3xl p-6 space-y-5 play-card">
+              <p className="text-gray-700 text-lg font-medium leading-snug text-center">{current.text}</p>
 
               {/* Would You Rather */}
               {isWYR && (
@@ -143,13 +114,7 @@ export default function PlayPage() {
                       key={opt}
                       type="button"
                       onClick={() => setPicked(opt)}
-                      className="p-3 rounded-2xl text-sm font-semibold text-center transition-all"
-                      style={{
-                        backgroundColor: picked === opt ? '#FF4FA3' : '#FCEAF2',
-                        color: picked === opt ? 'white' : '#E8A8C4',
-                        boxShadow: picked === opt ? '0 4px 12px rgba(255,79,163,0.4)' : 'none',
-                        transform: picked === opt ? 'scale(1.03)' : 'scale(1)',
-                      }}
+                      className={`p-3 rounded-2xl text-sm font-semibold text-center option-btn ${picked === opt ? 'option-picked' : 'option-default'}`}
                     >
                       {String(current.metadata[opt] ?? '')}
                     </button>
@@ -170,11 +135,7 @@ export default function PlayPage() {
                       key={i}
                       type="button"
                       onClick={() => setPicked(String(i))}
-                      className="w-full p-3 rounded-2xl text-sm font-semibold text-left transition-all"
-                      style={{
-                        backgroundColor: picked === String(i) ? '#FF4FA3' : '#FCEAF2',
-                        color: picked === String(i) ? 'white' : '#E8A8C4',
-                      }}
+                      className={`w-full p-3 rounded-2xl text-sm font-semibold text-left option-btn ${picked === String(i) ? 'option-picked' : 'option-default'}`}
                     >
                       {opt}
                     </button>
@@ -192,10 +153,7 @@ export default function PlayPage() {
                 <div className="space-y-3">
                   {(current.metadata.steps as string[]).map((step, i) => (
                     <div key={i} className="flex gap-3 text-sm text-gray-600">
-                      <span
-                        className="flex-shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold text-white"
-                        style={{ backgroundColor: '#FF4FA3' }}
-                      >
+                      <span className="flex-shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold text-white step-number">
                         {i + 1}
                       </span>
                       <span className="leading-relaxed">{step}</span>
@@ -216,11 +174,7 @@ export default function PlayPage() {
                 type="button"
                 onClick={prev}
                 disabled={index === 0}
-                className="flex-1 py-3 rounded-2xl font-semibold text-pink-400 transition-opacity disabled:opacity-30"
-                style={{
-                  backgroundColor: 'white',
-                  boxShadow: '0 2px 8px rgba(232,168,196,0.25)',
-                }}
+                className="flex-1 py-3 rounded-2xl font-semibold transition-opacity disabled:opacity-30 nav-prev-btn"
               >
                 ← Prev
               </button>
@@ -228,11 +182,7 @@ export default function PlayPage() {
                 type="button"
                 onClick={next}
                 disabled={index === items.length - 1}
-                className="flex-1 py-3 rounded-2xl font-bold text-white transition-opacity disabled:opacity-30"
-                style={{
-                  background: 'linear-gradient(135deg, #FF4FA3 0%, #E8A8C4 100%)',
-                  boxShadow: '0 4px 16px rgba(255,79,163,0.4)',
-                }}
+                className="flex-1 py-3 rounded-2xl font-bold transition-opacity disabled:opacity-30 nav-next-btn"
               >
                 Next →
               </button>

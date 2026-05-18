@@ -1,59 +1,65 @@
 import { NextResponse } from 'next/server';
-import { supabase } from '@/lib/supabaseClient';
-import { getCoupleDailyQuestion } from '@/lib/dailyQuestion';
+import { createSupabaseServiceClient } from '@/lib/supabaseClient';
 
-// For now, hardcode a couple_id; in real app, derive from auth session.
-const COUPLE_ID = '00000000-0000-0000-0000-000000000001';
+export async function GET(req: Request) {
+  const { searchParams } = new URL(req.url);
+  const coupleId = searchParams.get('coupleId');
+  const userId = searchParams.get('userId');
 
-export async function GET() {
-  try {
-    const question = await getCoupleDailyQuestion(COUPLE_ID);
-    if (!question) {
-      return NextResponse.json({ prompt: null }, { status: 200 });
-    }
-    return NextResponse.json({ prompt: { id: question.id, text: question.question } });
-  } catch {
-    return NextResponse.json({ prompt: null }, { status: 200 });
+  if (!coupleId || !userId) {
+    return NextResponse.json({ error: 'Missing coupleId or userId' }, { status: 400 });
   }
+
+  const supabase = createSupabaseServiceClient();
+
+  const { data: questionId, error: rpcError } = await supabase.rpc('assign_daily_question', {
+    p_couple_id: coupleId,
+  });
+
+  if (rpcError) return NextResponse.json({ error: rpcError.message }, { status: 500 });
+  if (!questionId) return NextResponse.json({ question: null }, { status: 200 });
+
+  const { data: question } = await supabase
+    .from('daily_questions')
+    .select('id, text')
+    .eq('id', questionId)
+    .single();
+
+  if (!question) return NextResponse.json({ question: null }, { status: 200 });
+
+  const { data: answers } = await supabase
+    .from('daily_answers')
+    .select('user_id, answer')
+    .eq('daily_question_id', question.id);
+
+  const myAnswer = answers?.find(a => a.user_id === userId) ?? null;
+  const partnerAnswer = answers?.find(a => a.user_id !== userId) ?? null;
+  const bothAnswered = !!myAnswer && !!partnerAnswer;
+
+  return NextResponse.json({
+    question: { id: question.id, text: question.text },
+    yourAnswer: myAnswer?.answer ?? null,
+    partnerAnswered: !!partnerAnswer,
+    partnerAnswer: bothAnswered ? partnerAnswer.answer : null,
+    state: bothAnswered ? 'revealed' : myAnswer ? 'waiting' : 'unanswered',
+  });
 }
 
 export async function POST(req: Request) {
   const body = await req.json();
-  const answer: string = body.answer ?? '';
+  const { answer, userId, questionId, coupleId } = body;
 
-  if (!answer.trim()) {
-    return NextResponse.json({ error: 'Empty answer' }, { status: 400 });
+  if (!answer?.trim() || !userId || !questionId || !coupleId) {
+    return NextResponse.json({ error: 'Missing fields' }, { status: 400 });
   }
 
-  // In real app, use auth user_id
-  const userId = '00000000-0000-0000-0000-000000000002';
+  const supabase = createSupabaseServiceClient();
 
-  const today = new Date().toISOString().slice(0, 10);
-
-  const { data: daily, error: dailyError } = await supabase
-    .from('daily_questions')
-    .select('id')
-    .eq('couple_id', COUPLE_ID)
-    .eq('date', today)
-    .single();
-
-  if (dailyError || !daily) {
-    return NextResponse.json({ error: 'No daily question' }, { status: 404 });
-  }
-
-  const { error: upsertError } = await supabase.from('daily_answers').upsert(
-    {
-      daily_question_id: daily.id,
-      user_id: userId,
-      answer,
-      updated_at: new Date().toISOString()
-    },
+  const { error } = await supabase.from('daily_answers').upsert(
+    { daily_question_id: questionId, user_id: userId, answer, updated_at: new Date().toISOString() },
     { onConflict: 'daily_question_id,user_id' }
   );
 
-  if (upsertError) {
-    return NextResponse.json({ error: 'Failed to save' }, { status: 500 });
-  }
-
+  if (error) return NextResponse.json({ error: 'Failed to save' }, { status: 500 });
   return NextResponse.json({ ok: true });
 }
