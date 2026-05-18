@@ -80,6 +80,12 @@ body {
 .animate-slide-up    { animation: slideUp  0.5s ease-out forwards; }
 .animate-gradient    { background-size: 400% 400%; animation: gradientShift 10s ease infinite; }
 
+/* === Us / Love card === */
+.love-card       { background: linear-gradient(145deg, #1C0814 0%, #2D0F20 100%); border-radius: 1.75rem; }
+.love-card-inner { background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.08); border-radius: 1rem; }
+.love-stat-val   { font-size: 2rem; font-weight: 800; color: white; line-height: 1; }
+.love-stat-lbl   { font-size: 0.65rem; font-weight: 600; color: rgba(255,255,255,0.45); text-transform: uppercase; letter-spacing: 0.08em; margin-top: 0.25rem; }
+
 /* === Home page cards === */
 .push-prompt-card  { background: linear-gradient(135deg, #FCE4EC, #F8DDE8); }
 .push-enable-btn   { background: linear-gradient(135deg, #FF4FA3, #C2185B); color: white; }
