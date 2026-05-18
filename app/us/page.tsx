@@ -10,6 +10,14 @@ type UserInfo = { id: string; display_name: string; avatar_color: string; avatar
 
 const AVATAR_COLORS = ['#FF4FA3','#C2185B','#FF7096','#F06292','#E91E63','#FF9FB2','#AD1457','#F48FB1'];
 
+function daysFrom(dateStr: string) {
+  const from = new Date(dateStr);
+  const now  = new Date();
+  from.setHours(0, 0, 0, 0);
+  now.setHours(0, 0, 0, 0);
+  return Math.max(0, Math.floor((now.getTime() - from.getTime()) / (1000 * 60 * 60 * 24)));
+}
+
 function Avatar({ user, size = 'lg', editable, onEdit }: { user: UserInfo; size?: 'sm' | 'lg'; editable?: boolean; onEdit?: () => void }) {
   const s = size === 'lg' ? 'w-20 h-20 text-2xl' : 'w-14 h-14 text-lg';
   return (
@@ -40,26 +48,30 @@ export default function UsPage() {
   const [pickedColor, setPickedColor] = useState('');
   const [avatarUrl,   setAvatarUrl]   = useState('');
   const [saving,      setSaving]      = useState(false);
-  const [daysToget,   setDaysTog]     = useState(0);
+  const [anniversary, setAnniversary] = useState('');
+  const [editingDate, setEditingDate] = useState(false);
+  const [newDate,     setNewDate]     = useState('');
+  const [savingDate,  setSavingDate]  = useState(false);
 
   useEffect(() => {
     const stored = getStoredCouple();
     if (!stored) { router.replace('/'); return; }
     setReady(true);
-    loadUsers(stored.coupleId, stored.userId);
+    loadData(stored.coupleId, stored.userId);
   }, [router]);
 
-  async function loadUsers(_coupleId: string, myId: string) {
+  async function loadData(coupleId: string, myId: string) {
     // Load my info
-    const meRes = await fetch(`/api/users/${myId}`);
+    const meRes  = await fetch(`/api/users/${myId}`);
     const meData = await meRes.json();
     if (meData.user) {
       setMe(meData.user);
       setPickedColor(meData.user.avatar_color ?? '#FF4FA3');
       setAvatarUrl(meData.user.avatar_url ?? '');
     }
-    // Load couple to find partner
-    const coupleRes  = await fetch(`/api/couple?code=MJ2025`); // refetch couple
+
+    // Load partner
+    const coupleRes  = await fetch(`/api/couple?code=MJ2025`);
     const coupleData = await coupleRes.json();
     if (coupleData.users) {
       const partnerUser = coupleData.users.find((u: { id: string }) => u.id !== myId);
@@ -69,10 +81,14 @@ export default function UsPage() {
         if (pData.user) setPartner(pData.user);
       }
     }
-    // Days together — use fixed date since we know the couple
-    const paired = new Date('2026-03-20');
-    const now    = new Date();
-    setDaysTog(Math.floor((now.getTime() - paired.getTime()) / (1000 * 60 * 60 * 24)));
+
+    // Load anniversary
+    const annRes  = await fetch(`/api/couple/anniversary?coupleId=${coupleId}`);
+    const annData = await annRes.json();
+    if (annData.date) {
+      setAnniversary(annData.date);
+      setNewDate(annData.date);
+    }
   }
 
   async function saveAvatar() {
@@ -89,10 +105,27 @@ export default function UsPage() {
     setEditing(false);
   }
 
+  async function saveAnniversary() {
+    const stored = getStoredCouple();
+    if (!stored || !newDate) return;
+    setSavingDate(true);
+    await fetch('/api/couple/anniversary', {
+      method:  'PUT',
+      headers: { 'content-type': 'application/json' },
+      body:    JSON.stringify({ coupleId: stored.coupleId, date: newDate }),
+    });
+    setAnniversary(newDate);
+    setSavingDate(false);
+    setEditingDate(false);
+  }
+
+  const days = anniversary ? daysFrom(anniversary) : 0;
+
   if (!ready) return null;
 
   return (
     <main className="min-h-screen pb-24 home-bg">
+
       {/* Header */}
       <div className="px-5 pt-12 pb-6 text-center">
         <h1 className="text-4xl font-bold home-title">Us</h1>
@@ -112,7 +145,7 @@ export default function UsPage() {
           </div>
           <div className="text-center">
             <p className="font-bold text-gray-700">{me?.display_name} &amp; {partner?.display_name}</p>
-            <p className="text-pink-400 text-sm mt-1">{daysToget} days together</p>
+            <p className="text-pink-400 text-sm mt-1">{days} days together</p>
           </div>
         </div>
 
@@ -120,7 +153,6 @@ export default function UsPage() {
         {editing && (
           <div className="pink-card p-5 space-y-4 animate-slide-up">
             <p className="text-sm font-bold text-pink-600">Customise your avatar</p>
-
             <div>
               <p className="text-xs text-gray-500 mb-2">Pick a colour</p>
               <div className="flex flex-wrap gap-2">
@@ -135,7 +167,6 @@ export default function UsPage() {
                 ))}
               </div>
             </div>
-
             <div>
               <p className="text-xs text-gray-500 mb-2">Or paste a photo URL</p>
               <input
@@ -146,7 +177,6 @@ export default function UsPage() {
                 className="w-full text-sm px-3 py-2 rounded-xl bg-pink-50 text-gray-700 placeholder-pink-300 focus:outline-none focus:ring-2 focus:ring-pink-200"
               />
             </div>
-
             <div className="flex gap-3">
               <button type="button" onClick={() => setEditing(false)} className="flex-1 py-2 rounded-xl text-pink-400 text-sm font-medium bg-pink-50">Cancel</button>
               <button type="button" onClick={saveAvatar} disabled={saving} className="flex-1 py-2 rounded-xl text-white text-sm font-bold pink-button disabled:opacity-50">
@@ -159,13 +189,54 @@ export default function UsPage() {
         {/* Stats */}
         <div className="grid grid-cols-2 gap-3">
           <div className="pink-card p-4 text-center">
-            <p className="text-3xl font-bold home-title">{daysToget}</p>
+            <p className="text-3xl font-bold home-title">{days}</p>
             <p className="text-pink-400 text-xs mt-1">Days together</p>
           </div>
           <div className="pink-card p-4 text-center">
             <p className="text-3xl font-bold home-title">MJ</p>
             <p className="text-pink-400 text-xs mt-1">Your couple code</p>
           </div>
+        </div>
+
+        {/* Anniversary */}
+        <div className="pink-card p-5 space-y-3">
+          <div className="flex items-center justify-between">
+            <div>
+              <p className="text-sm font-bold text-gray-700">Anniversary</p>
+              <p className="text-pink-400 text-xs mt-0.5">
+                {anniversary
+                  ? new Date(anniversary).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })
+                  : 'Not set yet'}
+              </p>
+            </div>
+            <button
+              type="button"
+              onClick={() => setEditingDate(e => !e)}
+              className="text-xs text-pink-500 font-semibold underline"
+            >
+              {editingDate ? 'Cancel' : anniversary ? 'Change' : 'Set date'}
+            </button>
+          </div>
+
+          {editingDate && (
+            <div className="space-y-3 animate-slide-up">
+              <input
+                type="date"
+                value={newDate}
+                max={new Date().toISOString().slice(0, 10)}
+                onChange={e => setNewDate(e.target.value)}
+                className="w-full text-sm px-3 py-2 rounded-xl bg-pink-50 text-gray-700 focus:outline-none focus:ring-2 focus:ring-pink-200"
+              />
+              <button
+                type="button"
+                onClick={saveAnniversary}
+                disabled={!newDate || savingDate}
+                className="w-full py-2 rounded-xl text-white text-sm font-bold pink-button disabled:opacity-50"
+              >
+                {savingDate ? 'Saving…' : 'Save anniversary'}
+              </button>
+            </div>
+          )}
         </div>
 
         {/* Disconnect */}
