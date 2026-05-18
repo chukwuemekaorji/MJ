@@ -24,7 +24,7 @@ The prompt should be suitable for a couple app, not explicit, and emotionally sa
 
   const text = await callClaude([{ role: 'user', content: prompt }]);
 
-  let parsed: any;
+  let parsed: { text: string; type: string; category: string; tone: string; difficulty: number };
   try {
     parsed = JSON.parse(text);
   } catch {
