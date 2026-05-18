@@ -29,7 +29,7 @@ export default function DailyPage() {
   useEffect(() => {
     if (!couple.current) { router.replace('/'); return; }
     fetchState();
-  }, []);
+  }, [router]);
 
   useEffect(() => {
     if (state === 'waiting') {
