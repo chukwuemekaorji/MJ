@@ -5,7 +5,6 @@ import { useRouter } from 'next/navigation';
 import { getStoredCouple } from '@/lib/coupleStore';
 import { BottomNav } from '@/components/BottomNav';
 import { ClockIcon } from '@/components/icons';
-import { createSupabaseServiceClient } from '@/lib/supabaseClient';
 
 type Session = { id: string; content_type: string; completed_at: string; content?: { text: string; category: string } };
 

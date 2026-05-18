@@ -14,15 +14,16 @@ function Avatar({ user, size = 'lg', editable, onEdit }: { user: UserInfo; size?
   const s = size === 'lg' ? 'w-20 h-20 text-2xl' : 'w-14 h-14 text-lg';
   return (
     <div className="relative inline-block">
+      {/* eslint-disable @next/next/no-img-element */}
       {user.avatar_url ? (
-        <img src={user.avatar_url} alt={user.display_name} className={`${s} rounded-full object-cover border-4 border-white`} style={{ boxShadow: `0 4px 16px ${user.avatar_color}66` }} />
+        <img src={user.avatar_url} alt={user.display_name} className={`${s} rounded-full object-cover border-4 border-white`} />
       ) : (
-        <div className={`${s} rounded-full flex items-center justify-center font-bold text-white border-4 border-white`} style={{ backgroundColor: user.avatar_color, boxShadow: `0 4px 16px ${user.avatar_color}66` }}>
+        <div className={`${s} rounded-full flex items-center justify-center font-bold text-white border-4 border-white avatar-${user.avatar_color.replace('#', '')}`}>
           {user.display_name[0].toUpperCase()}
         </div>
       )}
       {editable && (
-        <button type="button" onClick={onEdit} aria-label="Edit avatar" className="absolute -bottom-1 -right-1 w-7 h-7 rounded-full bg-white flex items-center justify-center" style={{ boxShadow: '0 2px 8px rgba(0,0,0,0.15)' }}>
+        <button type="button" onClick={onEdit} aria-label="Edit avatar" className="absolute -bottom-1 -right-1 w-7 h-7 rounded-full bg-white flex items-center justify-center edit-btn-shadow">
           <EditIcon className="w-3.5 h-3.5 text-pink-500" />
         </button>
       )}
@@ -46,11 +47,9 @@ export default function UsPage() {
     if (!stored) { router.replace('/'); return; }
     setReady(true);
     loadUsers(stored.coupleId, stored.userId);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [router]);
 
-  async function loadUsers(coupleId: string, myId: string) {
-    const cRes  = await fetch(`/api/couple?code=_`).catch(() => null);
+  async function loadUsers(_coupleId: string, myId: string) {
     // Load my info
     const meRes = await fetch(`/api/users/${myId}`);
     const meData = await meRes.json();
@@ -131,8 +130,7 @@ export default function UsPage() {
                     type="button"
                     aria-label={`Pick colour ${c}`}
                     onClick={() => setPickedColor(c)}
-                    className="w-9 h-9 rounded-full border-2 transition-transform active:scale-90"
-                    style={{ backgroundColor: c, borderColor: pickedColor === c ? '#333' : 'transparent', transform: pickedColor === c ? 'scale(1.15)' : 'scale(1)' }}
+                    className={`w-9 h-9 rounded-full border-2 transition-transform active:scale-90 swatch-${c.replace('#', '')} ${pickedColor === c ? 'border-gray-800 scale-[1.15]' : 'border-transparent'}`}
                   />
                 ))}
               </div>

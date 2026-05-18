@@ -80,6 +80,34 @@ body {
 .animate-slide-up    { animation: slideUp  0.5s ease-out forwards; }
 .animate-gradient    { background-size: 400% 400%; animation: gradientShift 10s ease infinite; }
 
+/* === Home page cards === */
+.push-prompt-card  { background: linear-gradient(135deg, #FCE4EC, #F8DDE8); }
+.push-enable-btn   { background: linear-gradient(135deg, #FF4FA3, #C2185B); color: white; }
+.pending-card      { background: linear-gradient(135deg, #FCEAF2, #F8DDE8); box-shadow: 0 2px 12px rgba(232,168,196,0.3); }
+
+/* === Us page avatar === */
+.edit-btn-shadow { box-shadow: 0 2px 8px rgba(0,0,0,0.15); }
+
+/* Avatar backgrounds — one class per palette colour */
+.avatar-FF4FA3 { background-color: #FF4FA3; box-shadow: 0 4px 16px #FF4FA3; }
+.avatar-C2185B { background-color: #C2185B; box-shadow: 0 4px 16px #C2185B; }
+.avatar-FF7096 { background-color: #FF7096; box-shadow: 0 4px 16px #FF7096; }
+.avatar-F06292 { background-color: #F06292; box-shadow: 0 4px 16px #F06292; }
+.avatar-E91E63 { background-color: #E91E63; box-shadow: 0 4px 16px #E91E63; }
+.avatar-FF9FB2 { background-color: #FF9FB2; box-shadow: 0 4px 16px #FF9FB2; }
+.avatar-AD1457 { background-color: #AD1457; box-shadow: 0 4px 16px #AD1457; }
+.avatar-F48FB1 { background-color: #F48FB1; box-shadow: 0 4px 16px #F48FB1; }
+
+/* Colour swatch buttons */
+.swatch-FF4FA3 { background-color: #FF4FA3; }
+.swatch-C2185B { background-color: #C2185B; }
+.swatch-FF7096 { background-color: #FF7096; }
+.swatch-F06292 { background-color: #F06292; }
+.swatch-E91E63 { background-color: #E91E63; }
+.swatch-FF9FB2 { background-color: #FF9FB2; }
+.swatch-AD1457 { background-color: #AD1457; }
+.swatch-F48FB1 { background-color: #F48FB1; }
+
 /* === Bounce dots === */
 .bounce-dot { animation: bounceDot 1.2s ease-in-out infinite; }
 .delay-0 { animation-delay: 0s; }

@@ -12,8 +12,9 @@ async function getCoupleInfo(
     .select('user_a, user_b')
     .eq('id', coupleId)
     .single();
-  const slot          = data?.user_a === userId ? 'a' : 'b';
-  const partnerUserId = data?.user_a === userId ? data.user_b : data.user_a;
+  if (!data) return { slot: 'b' as const, partnerUserId: null };
+  const slot          = data.user_a === userId ? ('a' as const) : ('b' as const);
+  const partnerUserId = data.user_a === userId ? data.user_b : data.user_a;
   return { slot, partnerUserId: partnerUserId as string };
 }
 

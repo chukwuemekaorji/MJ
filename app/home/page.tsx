@@ -41,8 +41,6 @@ export default function HomePage() {
   const [ready,        setReady]        = useState(false);
   const [userName,     setUserName]     = useState('');
   const [partnerName,  setPartnerName]  = useState('');
-  const [coupleId,     setCoupleId]     = useState('');
-  const [userId,       setUserId]       = useState('');
   const [dailyState,   setDailyState]   = useState<DailyState>('loading');
   const [pending,      setPending]      = useState<Pending[]>([]);
   const [pushDismiss,  setPushDismiss]  = useState(false);
@@ -53,8 +51,6 @@ export default function HomePage() {
     if (!stored) { router.replace('/'); return; }
     setUserName(stored.userName);
     setPartnerName(stored.userName === 'Maryjane' ? 'Chukwuemeka' : 'Maryjane');
-    setCoupleId(stored.coupleId);
-    setUserId(stored.userId);
     setReady(true);
     fetchDailyState(stored.coupleId, stored.userId);
     fetchPending(stored.coupleId, stored.userId);
@@ -106,14 +102,14 @@ export default function HomePage() {
 
         {/* Push notifications prompt */}
         {!pushEnabled && !pushDismiss && (
-          <div className="rounded-2xl p-4 flex items-center gap-3 animate-fade-up" style={{ background: 'linear-gradient(135deg, #FCE4EC, #F8DDE8)' }}>
+          <div className="rounded-2xl p-4 flex items-center gap-3 animate-fade-up push-prompt-card">
             <div className="flex-1">
               <p className="text-pink-700 font-semibold text-sm">Stay in the loop</p>
               <p className="text-pink-400 text-xs mt-0.5">Get notified when {partnerName} answers a question</p>
             </div>
             <div className="flex gap-2 flex-shrink-0">
               <button type="button" onClick={() => setPushDismiss(true)} className="text-pink-300 text-xs px-2 py-1">Later</button>
-              <button type="button" onClick={enablePush} className="text-white text-xs font-bold px-3 py-1.5 rounded-xl" style={{ background: 'linear-gradient(135deg, #FF4FA3, #C2185B)' }}>Enable</button>
+              <button type="button" onClick={enablePush} className="text-xs font-bold px-3 py-1.5 rounded-xl push-enable-btn">Enable</button>
             </div>
           </div>
         )}
@@ -126,8 +122,7 @@ export default function HomePage() {
                 key={p.id}
                 type="button"
                 onClick={() => router.push(`/play/${p.content?.type ?? 'couple_question'}?highlight=${p.content_id}`)}
-                className="w-full text-left rounded-2xl p-4 flex items-center gap-3 animate-fade-up"
-                style={{ background: 'linear-gradient(135deg, #FCEAF2, #F8DDE8)', boxShadow: '0 2px 12px rgba(232,168,196,0.3)' }}
+                className="w-full text-left rounded-2xl p-4 flex items-center gap-3 animate-fade-up pending-card"
               >
                 <div className="w-2 h-2 rounded-full bg-pink-500 flex-shrink-0" />
                 <div className="flex-1 min-w-0">

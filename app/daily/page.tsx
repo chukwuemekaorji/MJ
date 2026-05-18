@@ -29,7 +29,6 @@ export default function DailyPage() {
   useEffect(() => {
     if (!couple.current) { router.replace('/'); return; }
     fetchState();
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
@@ -39,7 +38,6 @@ export default function DailyPage() {
       if (pollRef.current) clearInterval(pollRef.current);
     }
     return () => { if (pollRef.current) clearInterval(pollRef.current); };
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [state]);
 
   useEffect(() => {
@@ -48,7 +46,6 @@ export default function DailyPage() {
       const iv = setInterval(fetchMessages, 3000);
       return () => clearInterval(iv);
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [chatOpen]);
 
   useEffect(() => {

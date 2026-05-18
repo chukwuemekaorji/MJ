@@ -3,12 +3,11 @@ import type { ReactNode } from 'react';
 
 export const metadata = {
   title: 'MJ – Couples Space',
-  description: 'A private, playful, reflective space for two people.'
-  ,
+  description: 'A private, playful, reflective space for two people.',
   icons: {
-    // Apple touch icon for iOS
-    apple: '/apple-touch-icon.png'
-  }
+    apple: [{ url: '/logo.png', sizes: '180x180', type: 'image/png' }],
+    icon:  [{ url: '/logo.png', type: 'image/png' }],
+  },
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
@@ -17,7 +16,6 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <head>
         <meta name="theme-color" content="#F8DDE8" />
         <link rel="manifest" href="/manifest.webmanifest" />
-        {/* Fallbacks for other platforms */}
         <meta name="msapplication-TileColor" content="#F8DDE8" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
       </head>
