@@ -1,3 +1,5 @@
+import { createSupabaseServiceClient, isSupabaseServiceConfigured } from '@/lib/supabaseClient';
+
 export type DailyQuestion = {
   id: string;
   question: string;
@@ -82,6 +84,66 @@ export function getDailyQuestion(date: Date = new Date()) {
   };
 }
 
-function getTodayDailyPrompt(coupleId: any, string: any) {
-  throw new Error("Function not implemented.");
+type DailyQuestionRow = {
+  id: string;
+  content_id: string;
+  date: string;
+  text: string;
+  category: string | null;
+  tone: string | null;
+  content: {
+    metadata: Record<string, unknown> | null;
+    difficulty: number | null;
+  } | null;
+};
+
+function metadataString(metadata: Record<string, unknown> | null | undefined, key: string) {
+  const value = metadata?.[key];
+  return typeof value === 'string' ? value : undefined;
+}
+
+export async function getCoupleDailyQuestion(coupleId: string) {
+  if (!isSupabaseServiceConfigured()) {
+    return getDailyQuestion();
+  }
+
+  const supabase = createSupabaseServiceClient();
+  const { data: dailyQuestionId, error: assignError } = await supabase.rpc('assign_daily_question', {
+    p_couple_id: coupleId
+  });
+
+  if (assignError) {
+    throw new Error(`Failed to assign daily question: ${assignError.message}`);
+  }
+
+  if (!dailyQuestionId) {
+    return null;
+  }
+
+  const { data, error } = await supabase
+    .from('daily_questions')
+    .select('id, content_id, date, text, category, tone, content:content_id(metadata, difficulty)')
+    .eq('id', dailyQuestionId)
+    .single<DailyQuestionRow>();
+
+  if (error) {
+    throw new Error(`Failed to load daily question: ${error.message}`);
+  }
+
+  const metadata = data.content?.metadata;
+
+  return {
+    id: data.id,
+    contentId: data.content_id,
+    date: data.date,
+    question: data.text,
+    focus: data.category ?? 'daily connection',
+    answerPrompt:
+      metadataString(metadata, 'answer_prompt') ??
+      metadataString(metadata, 'answerPrompt') ??
+      'Answer honestly, then compare with your partner when both responses are in.',
+    category: data.category,
+    tone: data.tone,
+    difficulty: data.content?.difficulty ?? undefined
+  };
 }

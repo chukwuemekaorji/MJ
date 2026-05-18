@@ -1,37 +1,47 @@
-import { NextRequest, NextResponse } from 'next/server';
-import { generateOnDemandContent } from '@/lib/claude';
+import { NextResponse } from 'next/server';
+import { supabase } from '@/lib/supabaseClient';
+import { callClaude } from '@/lib/claude';
 
-type RequestBody = {
-  prompt?: string;
-  context?: string;
-};
+export async function POST(req: Request) {
+  const body = await req.json();
+  const category: string = body.category ?? 'communication';
+  const type: string = body.type ?? 'daily_question';
 
-export async function POST(request: NextRequest) {
-  const body = (await request.json().catch(() => ({}))) as RequestBody;
-  const prompt = body.prompt?.trim();
+  const prompt = `
+You are generating a single relationship prompt.
 
-  if (!prompt) {
-    return NextResponse.json({ error: 'prompt is required' }, { status: 400 });
-  }
-
-  try {
-    const content = await generateOnDemandContent({
-      prompt,
-      context: body.context?.trim() || undefined
-    });
-
-    return NextResponse.json({ content });
-  } catch (error) {
-    console.error('Failed to generate on-demand content:', error);
-    return NextResponse.json({ error: 'Failed to generate content' }, { status: 502 });
-  }
+Return ONLY a JSON object with:
+{
+  "text": string,
+  "type": "${type}",
+  "category": "${category}",
+  "tone": "light" | "medium" | "deep",
+  "difficulty": 1 | 2 | 3
 }
 
-export function GET() {
-  return NextResponse.json(
-    {
-      message: 'Send a POST request with { prompt, context? } to generate content on demand.'
-    },
-    { status: 200 }
-  );
+The prompt should be suitable for a couple app, not explicit, and emotionally safe.
+`;
+
+  const text = await callClaude([{ role: 'user', content: prompt }]);
+
+  let parsed: any;
+  try {
+    parsed = JSON.parse(text);
+  } catch {
+    return NextResponse.json({ error: 'Claude returned invalid JSON' }, { status: 500 });
+  }
+
+  const { error } = await supabase.from('content').insert({
+    text: parsed.text,
+    type: parsed.type,
+    category: parsed.category,
+    tone: parsed.tone,
+    difficulty: parsed.difficulty
+  });
+
+  if (error) {
+    return NextResponse.json({ error: 'Failed to save content' }, { status: 500 });
+  }
+
+  return NextResponse.json({ content: parsed });
 }

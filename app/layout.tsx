@@ -1,5 +1,4 @@
-// @ts-ignore: CSS module without type declarations
-import './globals.css';
+import '../styles/globals.css';
 import type { ReactNode } from 'react';
 
 export const metadata = {

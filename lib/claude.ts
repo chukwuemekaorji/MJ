@@ -1,44 +1,31 @@
-import Anthropic from '@anthropic-ai/sdk';
+const CLAUDE_API_KEY = process.env.CLAUDE_API_KEY!;
+const CLAUDE_MODEL = process.env.CLAUDE_MODEL ?? 'claude-3-5-sonnet-20241022';
 
-type OnDemandContentRequest = {
-  prompt: string;
-  context?: string;
+type ClaudeMessage = {
+  role: 'user' | 'assistant' | 'system';
+  content: string;
 };
 
-const fallbackResponse = (request: OnDemandContentRequest) => {
-  const contextLine = request.context ? ` Context: ${request.context}.` : '';
-  return `Draft response for "${request.prompt}".${contextLine} Expand this into the final version with examples, structure, and a clear conclusion.`;
-};
-
-export async function generateOnDemandContent(request: OnDemandContentRequest) {
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-
-  if (!apiKey) {
-    return fallbackResponse(request);
-  }
-
-  const client = new Anthropic({ apiKey });
-  const message = await client.messages.create({
-    model: 'claude-3-5-sonnet-latest',
-    max_tokens: 800,
-    system: 'You generate concise, high-signal content for the MJ app.',
-    messages: [
-      {
-        role: 'user',
-        content: [
-          {
-            type: 'text',
-            text: request.context
-              ? `Prompt: ${request.prompt}\nContext: ${request.context}`
-              : `Prompt: ${request.prompt}`
-          }
-        ]
-      }
-    ]
+export async function callClaude(messages: ClaudeMessage[]) {
+  const res = await fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: {
+      'x-api-key': CLAUDE_API_KEY,
+      'anthropic-version': '2023-06-01',
+      'content-type': 'application/json'
+    },
+    body: JSON.stringify({
+      model: CLAUDE_MODEL,
+      max_tokens: 512,
+      messages
+    })
   });
 
-  return message.content
-    .map((block) => ('text' in block ? block.text : ''))
-    .join('\n')
-    .trim();
+  if (!res.ok) {
+    throw new Error(`Claude error: ${res.status}`);
+  }
+
+  const data = await res.json();
+  const text = data.content?.[0]?.text ?? '';
+  return text as string;
 }
