@@ -1,15 +1,21 @@
 import { NextResponse } from 'next/server';
 import { createSupabaseServiceClient } from '@/lib/supabaseClient';
 
-export async function GET() {
+export async function GET(req: Request) {
+  const { searchParams } = new URL(req.url);
+  const category = searchParams.get('category');
+
   const supabase = createSupabaseServiceClient();
 
-  const { data, error } = await supabase
+  let query = supabase
     .from('content')
     .select('type, category, metadata')
     .eq('is_active', true)
     .not('metadata->>pack_name', 'is', null);
 
+  if (category) query = query.eq('category', category);
+
+  const { data, error } = await query;
   if (error) return NextResponse.json({ error: error.message }, { status: 500 });
 
   // Group by pack_name

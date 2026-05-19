@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from 'react';
 import { useRouter, useParams, useSearchParams } from 'next/navigation';
 import { getStoredCouple } from '@/lib/coupleStore';
 import { BottomNav } from '@/components/BottomNav';
-import { BackIcon, CheckIcon, SendIcon } from '@/components/icons';
+import { BackIcon, CheckIcon, SendIcon, TimerIcon } from '@/components/icons';
 
 type ContentItem = { id: string; text: string; type: string; category: string; tone: string; difficulty: number; metadata: Record<string, unknown> };
 type CardState   = 'idle' | 'answering' | 'waiting' | 'revealed';
@@ -258,7 +258,7 @@ export default function PlayPage() {
                     </div>
                   ))}
                   {typeof current.metadata.duration_minutes === 'number' && (
-                    <p className="text-xs text-pink-300 font-semibold pt-1">⏱ {current.metadata.duration_minutes} minutes</p>
+                    <p className="text-xs text-pink-300 font-semibold pt-1 flex items-center gap-1"><TimerIcon className="w-3 h-3" />{current.metadata.duration_minutes} minutes</p>
                   )}
                 </div>
               )}

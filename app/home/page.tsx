@@ -2,49 +2,31 @@
 
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { getStoredCouple, clearCouple } from '@/lib/coupleStore';
+import { getStoredCouple } from '@/lib/coupleStore';
 import { BottomNav } from '@/components/BottomNav';
 import { isPushEnabled, subscribeToPush } from '@/lib/pushClient';
-import {
-  SunIcon, ChatIcon, SparkleIcon, QuizIcon,
-  HeartIcon, MapIcon, StackIcon, ZapIcon, FlameIcon,
-} from '@/components/icons';
+import { SunIcon, FlameIcon } from '@/components/icons';
 
 type DailyState = 'loading' | 'unanswered' | 'waiting' | 'revealed' | null;
 type Pending    = { id: string; content_id: string; content?: { text: string; type: string } };
 
-const CATEGORIES = [
-  { type: 'couple_question', label: 'Deep Talk',      Icon: ChatIcon,    desc: 'Go deeper together'      },
-  { type: 'game',            label: 'Play Together',  Icon: SparkleIcon, desc: 'Would you rather & more' },
-  { type: 'quiz',            label: 'Read My Mind',   Icon: QuizIcon,    desc: 'How well do you know me?' },
-  { type: 'exercise',        label: 'Together Time',  Icon: HeartIcon,   desc: 'Guided couple activities' },
-  { type: 'journey',         label: 'Our Journey',    Icon: MapIcon,     desc: '7-day guided adventures'  },
-  { type: 'question_pack',   label: 'Question Packs', Icon: StackIcon,   desc: 'Themed deep-dive sets'    },
-  { type: 'insight_prompt',  label: 'Grow Together',  Icon: ZapIcon,     desc: 'Reflect and evolve as one'},
-  { type: 'spicy',           label: 'Spicy',          Icon: FlameIcon,   desc: 'Adults only', adult: true },
-];
-
-const CAT_CSS: Record<string, string> = {
-  couple_question: 'cat-couple-question', game: 'cat-game', quiz: 'cat-quiz',
-  exercise: 'cat-exercise', journey: 'cat-journey', question_pack: 'cat-question-pack',
-  insight_prompt: 'cat-insight-prompt', spicy: 'cat-spicy',
-};
-
 const DAILY_LABELS: Record<string, { label: string; sub: string }> = {
-  unanswered: { label: "Today's question is ready",  sub: 'Tap to answer privately' },
+  unanswered: { label: "Today's question is ready",  sub: 'Tap to answer privately'                },
   waiting:    { label: 'Waiting for your partner…',  sub: "You've answered — they'll be notified" },
-  revealed:   { label: 'Both answered!',             sub: "See each other's answers and discuss" },
+  revealed:   { label: 'Both answered!',             sub: "See each other's answers and discuss"  },
 };
 
 export default function HomePage() {
   const router = useRouter();
-  const [ready,        setReady]        = useState(false);
-  const [userName,     setUserName]     = useState('');
-  const [partnerName,  setPartnerName]  = useState('');
-  const [dailyState,   setDailyState]   = useState<DailyState>('loading');
-  const [pending,      setPending]      = useState<Pending[]>([]);
-  const [pushDismiss,  setPushDismiss]  = useState(false);
-  const [pushEnabled,  setPushEnabled]  = useState(true);
+  const [ready,       setReady]       = useState(false);
+  const [userName,    setUserName]    = useState('');
+  const [partnerName, setPartnerName] = useState('');
+  const [dailyState,  setDailyState]  = useState<DailyState>('loading');
+  const [streak,      setStreak]      = useState(0);
+  const [streakToday, setStreakToday] = useState(false);
+  const [pending,     setPending]     = useState<Pending[]>([]);
+  const [pushDismiss, setPushDismiss] = useState(false);
+  const [pushEnabled, setPushEnabled] = useState(true);
 
   useEffect(() => {
     const stored = getStoredCouple();
@@ -54,7 +36,7 @@ export default function HomePage() {
     setReady(true);
     fetchDailyState(stored.coupleId, stored.userId);
     fetchPending(stored.coupleId, stored.userId);
-    isPushEnabled().then(enabled => setPushEnabled(enabled));
+    isPushEnabled().then(e => setPushEnabled(e));
   }, [router]);
 
   async function fetchDailyState(cId: string, uId: string) {
@@ -62,6 +44,8 @@ export default function HomePage() {
       const res  = await fetch(`/api/daily?coupleId=${cId}&userId=${uId}`);
       const data = await res.json();
       setDailyState(data.question ? data.state : null);
+      setStreak(data.streak ?? 0);
+      setStreakToday(data.streakToday ?? false);
     } catch { setDailyState(null); }
   }
 
@@ -87,15 +71,26 @@ export default function HomePage() {
 
   return (
     <main className="min-h-screen pb-24 home-bg">
+
       {/* Header */}
       <div className="px-5 pt-12 pb-6 flex items-center justify-between">
         <div>
           <h1 className="text-4xl font-bold home-title">MJ</h1>
-          <p className="text-pink-400 text-sm mt-0.5">Hey <span className="font-semibold text-pink-600">{userName}</span></p>
+          <p className="text-pink-400 text-sm mt-0.5">
+            Hey <span className="font-semibold text-pink-600">{userName}</span>
+          </p>
         </div>
-        <button type="button" onClick={() => { clearCouple(); router.replace('/'); }} className="text-pink-300 text-xs underline">
-          disconnect
-        </button>
+
+        {/* Streak badge */}
+        {streak > 0 && (
+          <div
+            className={`flex items-center gap-1.5 px-3 py-2 rounded-2xl ${streakToday ? 'bg-pink-600' : 'bg-pink-100'}`}
+            title={streakToday ? `${streak} day streak — kept today!` : `${streak} day streak — answer today to keep it going`}
+          >
+            <FlameIcon className={`w-4 h-4 ${streakToday ? 'text-white' : 'text-pink-500'}`} />
+            <span className={`text-sm font-bold ${streakToday ? 'text-white' : 'text-pink-600'}`}>{streak}</span>
+          </div>
+        )}
       </div>
 
       <div className="px-4 space-y-5 max-w-sm mx-auto">
@@ -111,6 +106,16 @@ export default function HomePage() {
               <button type="button" onClick={() => setPushDismiss(true)} className="text-pink-300 text-xs px-2 py-1">Later</button>
               <button type="button" onClick={enablePush} className="text-xs font-bold px-3 py-1.5 rounded-xl push-enable-btn">Enable</button>
             </div>
+          </div>
+        )}
+
+        {/* Streak broken warning */}
+        {streak > 0 && !streakToday && dailyState === 'unanswered' && (
+          <div className="rounded-2xl p-3 flex items-center gap-3 animate-fade-up" style={{ background: 'linear-gradient(135deg, #FFF3E0, #FFEDD5)' }}>
+            <FlameIcon className="w-5 h-5 text-orange-400 flex-shrink-0" />
+            <p className="text-orange-700 text-xs font-medium">
+              Answer today to keep your {streak} day streak alive
+            </p>
           </div>
         )}
 
@@ -175,29 +180,18 @@ export default function HomePage() {
           )}
         </div>
 
-        {/* Divider */}
-        <div className="flex items-center gap-3 px-1">
-          <div className="flex-1 h-px bg-pink-200" />
-          <span className="text-pink-300 text-xs font-semibold tracking-widest uppercase">Explore</span>
-          <div className="flex-1 h-px bg-pink-200" />
-        </div>
-
-        {/* Category Grid */}
-        <div className="grid grid-cols-2 gap-3">
-          {CATEGORIES.map(cat => (
-            <button
-              key={cat.type}
-              type="button"
-              onClick={() => router.push(`/play/${cat.type}`)}
-              className={`flex flex-col items-start p-4 rounded-3xl text-left transition-transform active:scale-95 ${CAT_CSS[cat.type]} cat-shadow`}
-            >
-              <cat.Icon className="w-7 h-7 text-pink-400 mb-2" />
-              <span className="font-bold text-gray-700 text-sm leading-tight">{cat.label}</span>
-              <span className="text-gray-400 text-xs mt-1 leading-tight">{cat.desc}</span>
-              {cat.adult && <span className="mt-2 text-xs bg-red-100 text-red-400 px-2 py-0.5 rounded-full font-semibold">18+</span>}
-            </button>
-          ))}
-        </div>
+        {/* Explore banner */}
+        <button
+          type="button"
+          onClick={() => router.push('/explore')}
+          className="w-full text-left rounded-3xl p-5 flex items-center justify-between pink-card"
+        >
+          <div>
+            <p className="font-bold text-gray-800 text-base">Explore activities</p>
+            <p className="text-pink-400 text-sm mt-0.5">Questions, games, quizzes, exercises &amp; more</p>
+          </div>
+          <span className="text-pink-400 text-2xl ml-3 flex-shrink-0">→</span>
+        </button>
       </div>
 
       <BottomNav />

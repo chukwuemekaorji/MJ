@@ -114,6 +114,28 @@ body {
 .swatch-AD1457 { background-color: #AD1457; }
 .swatch-F48FB1 { background-color: #F48FB1; }
 
+/* === Explore category tab bar === */
+.tab-bar { box-shadow: 0 2px 10px rgba(232,168,196,0.2); }
+
+/* === Type circle buttons === */
+.type-circle-active   { background-color: #C2185B; box-shadow: 0 4px 16px rgba(194,24,91,0.35); }
+.type-circle-inactive { background-color: white;   box-shadow: 0 2px 10px rgba(232,168,196,0.25); }
+.type-label-active    { color: #C2185B; }
+.type-label-inactive  { color: #6B7280; }
+
+/* === Hide scrollbar but keep scroll === */
+.hide-scroll { -ms-overflow-style: none; scrollbar-width: none; }
+.hide-scroll::-webkit-scrollbar { display: none; }
+
+/* === Explore activity icon squares === */
+.act-icon-question_pack { background: linear-gradient(135deg, #FFF0F8, #FCE4EC); }
+.act-icon-game          { background: linear-gradient(135deg, #EEF2FF, #E0E7FF); }
+.act-icon-quiz          { background: linear-gradient(135deg, #FFF8F0, #FFEDD5); }
+.act-icon-exercise      { background: linear-gradient(135deg, #F0FFF4, #DCFCE7); }
+.act-icon-journey       { background: linear-gradient(135deg, #F0FFFC, #CCFBF1); }
+.act-icon-spicy         { background: linear-gradient(135deg, #FFF0F0, #FFE4E6); }
+.act-icon-couple_question { background: linear-gradient(135deg, #FDF4FF, #FAE8FF); }
+
 /* === Bounce dots === */
 .bounce-dot { animation: bounceDot 1.2s ease-in-out infinite; }
 .delay-0 { animation-delay: 0s; }

@@ -33,4 +33,7 @@ export const SendIcon      = ({ className }: P) => <S className={className}><lin
 export const LockIcon      = ({ className }: P) => <S className={className}><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0110 0v4"/></S>;
 export const CheckIcon     = ({ className }: P) => <S className={className}><polyline points="20 6 9 17 4 12"/></S>;
 export const StarFillIcon  = ({ className }: P) => <S className={className} filled><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></S>;
-export const EditIcon      = ({ className }: P) => <S className={className}><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/></S>;
+export const EditIcon        = ({ className }: P) => <S className={className}><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/></S>;
+export const CameraIcon      = ({ className }: P) => <S className={className}><path d="M23 19a2 2 0 01-2 2H3a2 2 0 01-2-2V8a2 2 0 012-2h4l2-3h6l2 3h4a2 2 0 012 2z"/><circle cx="12" cy="13" r="4"/></S>;
+export const CheckCircleIcon = ({ className }: P) => <S className={className}><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></S>;
+export const TimerIcon       = ({ className }: P) => <S className={className}><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></S>;

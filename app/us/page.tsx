@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { getStoredCouple, clearCouple } from '@/lib/coupleStore';
 import { BottomNav } from '@/components/BottomNav';
-import { EditIcon } from '@/components/icons';
+import { EditIcon, HeartFillIcon, CameraIcon, CheckIcon } from '@/components/icons';
 
 type UserInfo = { id: string; display_name: string; avatar_color: string; avatar_url?: string };
 
@@ -185,7 +185,7 @@ export default function UsPage() {
           {/* Heartbeats */}
           {stats && stats.heartbeats > 0 && (
             <div className="flex items-center gap-3">
-              <span className="text-2xl animate-heartbeat">🤍</span>
+              <HeartFillIcon className="w-6 h-6 text-white/60 animate-heartbeat" />
               <p className="text-white/70 text-sm leading-snug">
                 Still in sync after{' '}
                 <span className="text-white font-bold">{stats.heartbeats.toLocaleString()}</span>
@@ -221,7 +221,7 @@ export default function UsPage() {
               <input ref={fileRef} type="file" accept="image/*" aria-label="Upload profile photo" className="hidden" onChange={handlePhotoUpload} />
               <button type="button" onClick={() => fileRef.current?.click()}
                 className="w-full py-3 rounded-xl bg-pink-50 text-pink-500 text-sm font-semibold border border-pink-200 active:scale-95 transition-transform">
-                {uploading ? 'Uploading…' : avatarUrl ? '✓ Photo uploaded — tap to change' : '📷 Choose from camera or gallery'}
+                {uploading ? 'Uploading…' : avatarUrl ? <><CheckIcon className="w-4 h-4 inline mr-1 -mt-0.5" />Photo uploaded — tap to change</> : <><CameraIcon className="w-4 h-4 inline mr-1 -mt-0.5" />Choose from camera or gallery</>}
               </button>
             </div>
             <div className="flex gap-3">
@@ -261,11 +261,67 @@ export default function UsPage() {
           )}
         </div>
 
-        {/* ── Sign out ── */}
-        <button type="button" onClick={() => { clearCouple(); router.replace('/'); }}
-          className="w-full py-3 rounded-2xl text-pink-400 text-sm font-medium bg-pink-50">
-          Sign out of this device
-        </button>
+        {/* ── Settings ── */}
+        <div className="pink-card divide-y divide-pink-100 overflow-hidden">
+          <p className="px-5 py-3 text-xs font-bold text-pink-400 uppercase tracking-widest">Settings</p>
+
+          {/* Couple code */}
+          <div className="px-5 py-4 flex items-center justify-between">
+            <div>
+              <p className="text-sm font-semibold text-gray-700">Couple code</p>
+              <p className="text-pink-400 text-xs mt-0.5">Share this to connect on a new device</p>
+            </div>
+            <button
+              type="button"
+              onClick={() => {
+                const stored = window.localStorage.getItem('mj_couple');
+                const code   = stored ? JSON.parse(stored).code : '';
+                navigator.clipboard.writeText(code).catch(() => {});
+              }}
+              className="text-xs font-bold text-pink-600 bg-pink-50 px-3 py-1.5 rounded-xl border border-pink-200"
+            >
+              Copy code
+            </button>
+          </div>
+
+          {/* Notifications */}
+          <div className="px-5 py-4 flex items-center justify-between">
+            <div>
+              <p className="text-sm font-semibold text-gray-700">Push notifications</p>
+              <p className="text-pink-400 text-xs mt-0.5">Get notified when your partner answers</p>
+            </div>
+            <button
+              type="button"
+              onClick={async () => {
+                const stored = window.localStorage.getItem('mj_couple');
+                if (!stored) return;
+                const { userId } = JSON.parse(stored);
+                const { subscribeToPush } = await import('@/lib/pushClient');
+                await subscribeToPush(userId);
+              }}
+              className="text-xs font-bold text-pink-600 bg-pink-50 px-3 py-1.5 rounded-xl border border-pink-200"
+            >
+              Enable
+            </button>
+          </div>
+
+          {/* About */}
+          <div className="px-5 py-4">
+            <p className="text-sm font-semibold text-gray-700">About MJ</p>
+            <p className="text-pink-400 text-xs mt-1 leading-relaxed">
+              A private space for Maryjane &amp; Chukwuemeka. Questions, games, exercises and daily prompts — all built for two.
+            </p>
+          </div>
+
+          {/* Sign out */}
+          <button
+            type="button"
+            onClick={() => { clearCouple(); router.replace('/'); }}
+            className="w-full px-5 py-4 text-left text-sm font-semibold text-red-400"
+          >
+            Sign out of this device
+          </button>
+        </div>
       </div>
 
       <BottomNav />

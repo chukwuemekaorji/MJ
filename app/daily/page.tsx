@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { getStoredCouple } from '@/lib/coupleStore';
+import { SendIcon, FlameIcon, ChatIcon, HeartFillIcon } from '@/components/icons';
 
 type DailyState = 'loading' | 'unanswered' | 'waiting' | 'revealed';
 type Question   = { id: string; text: string };
@@ -21,6 +22,8 @@ export default function DailyPage() {
   const [messages,        setMessages]        = useState<Message[]>([]);
   const [newMessage,      setNewMessage]      = useState('');
   const [chatOpen,        setChatOpen]        = useState(false);
+  const [streak,          setStreak]          = useState(0);
+  const [streakToday,     setStreakToday]     = useState(false);
   const pollRef     = useRef<ReturnType<typeof setInterval> | null>(null);
   const messagesEnd = useRef<HTMLDivElement>(null);
 
@@ -60,6 +63,8 @@ export default function DailyPage() {
     if (!data.question) return;
     setQuestion(data.question);
     setYourAnswer(data.yourAnswer);
+    setStreak(data.streak ?? 0);
+    setStreakToday(data.streakToday ?? false);
     if (data.state === 'revealed') {
       setPartnerAnswer(data.partnerAnswer);
       setState('revealed');
@@ -160,7 +165,7 @@ export default function DailyPage() {
               disabled={!answer.trim() || submitting}
               className="pink-button w-full disabled:opacity-50"
             >
-              {submitting ? 'Saving…' : 'Submit my answer 💌'}
+              <SendIcon className="w-4 h-4 inline mr-1.5 -mt-0.5" />{submitting ? 'Saving…' : 'Submit my answer'}
             </button>
           </div>
         )}
@@ -187,6 +192,19 @@ export default function DailyPage() {
         {/* Revealed */}
         {state === 'revealed' && (
           <div className="space-y-4 animate-slide-up">
+
+            {/* Streak banner */}
+            {streak > 0 && (
+              <div className={`rounded-2xl p-4 text-center ${streakToday ? 'bg-pink-600' : 'bg-orange-50'}`}>
+                <p className={`text-lg font-bold ${streakToday ? 'text-white' : 'text-orange-600'}`}>
+                  <FlameIcon className="w-5 h-5 inline mr-1.5 -mt-0.5" />{streak} day streak{streakToday ? '!' : ' — keep it going tomorrow'}
+                </p>
+                {streakToday && (
+                  <p className="text-white/80 text-xs mt-0.5 flex items-center justify-center gap-1">You both answered today <HeartFillIcon className="w-3 h-3" /></p>
+                )}
+              </div>
+            )}
+
             <div className="grid grid-cols-2 gap-3">
               <div className="rounded-2xl p-4 your-answer-card">
                 <p className="text-xs font-bold text-pink-500 uppercase tracking-wider mb-2">{couple.current?.userName}</p>
@@ -199,14 +217,14 @@ export default function DailyPage() {
             </div>
 
             <button type="button" onClick={() => setChatOpen(o => !o)} className="pink-button w-full">
-              {chatOpen ? 'Close chat' : `💬 Discuss with ${partnerName}`}
+              {chatOpen ? 'Close chat' : <><ChatIcon className="w-4 h-4 inline mr-1.5 -mt-0.5" />Discuss with {partnerName}</>}
             </button>
 
             {chatOpen && (
               <div className="pink-card overflow-hidden animate-slide-up">
                 <div className="h-64 overflow-y-auto p-4 space-y-3">
                   {messages.length === 0 && (
-                    <p className="text-pink-300 text-sm text-center mt-8">Start the conversation! 💕</p>
+                    <p className="text-pink-300 text-sm text-center mt-8 flex items-center justify-center gap-1">Start the conversation <HeartFillIcon className="w-3.5 h-3.5" /></p>
                   )}
                   {messages.map(msg => {
                     const isMe = msg.sender_id === couple.current?.userId;

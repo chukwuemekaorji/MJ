@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { getStoredCouple } from '@/lib/coupleStore';
+import { CheckCircleIcon, CameraIcon, ChatIcon, TimerIcon } from '@/components/icons';
 
 type Item = {
   id: string;
@@ -169,7 +170,7 @@ function ActivityContent() {
       <main className="min-h-screen flex flex-col items-center justify-center px-6 home-bg">
         <div className="max-w-sm w-full text-center space-y-6">
           <div className="pink-card p-8 space-y-4">
-            <div className="text-5xl">✅</div>
+            <CheckCircleIcon className="w-14 h-14 text-green-400 mx-auto" />
             <h2 className="text-xl font-bold text-pink-600">You&apos;re done!</h2>
             <p className="text-gray-500 text-sm">
               Waiting for <strong>{partnerName}</strong> to complete their answers.<br />
@@ -234,7 +235,7 @@ function ActivityContent() {
             onClick={() => sessionId && router.push(`/discuss/${sessionId}`)}
             className="pink-button w-full"
           >
-            💬 Discuss with {partnerName}
+            <ChatIcon className="w-4 h-4 inline mr-1.5 -mt-0.5" />Discuss with {partnerName}
           </button>
         </div>
       </main>
@@ -286,7 +287,7 @@ function ActivityContent() {
             ) : (
               <button type="button" onClick={() => fileRef.current?.click()}
                 className="w-full pink-card p-8 flex flex-col items-center gap-3 text-pink-400">
-                <span className="text-4xl">📷</span>
+                <CameraIcon className="w-10 h-10 mx-auto" />
                 <p className="font-semibold text-sm">{uploading ? 'Uploading…' : 'Tap to take or choose a photo'}</p>
               </button>
             )}
@@ -331,7 +332,7 @@ function ActivityContent() {
           <button type="button" onClick={submitAnswer}
             disabled={!answered || submitting || uploading}
             className="pink-button w-full disabled:opacity-50">
-            {submitting ? 'Saving…' : index < total - 1 ? 'Next →' : 'Finish activity ✓'}
+            {submitting ? 'Saving…' : index < total - 1 ? 'Next →' : 'Finish activity'}
           </button>
         )}
 
