@@ -233,3 +233,11 @@ body {
     box-shadow: 0 2px 10px rgba(255,79,163,0.3);
   }
 }
+
+/* === Discuss chat extras === */
+.msg-bubble        { transition: transform 0.2s ease-out; }
+.reply-arrow       { opacity: 0; transition: opacity 0.1s; flex-shrink: 0; }
+.reply-preview     { display: flex; flex-direction: column; background: rgba(255,255,255,0.6); border-left: 3px solid #FF4FA3; border-radius: 0.5rem 0.5rem 0 0; padding: 0.35rem 0.6rem; max-width: 75%; }
+.reply-bar         { display: flex; align-items: center; gap: 0.5rem; padding: 0.5rem 0.75rem; background: #FFF0F5; border-top: 1px solid #FFD6E8; border-radius: 0.75rem 0.75rem 0 0; margin-bottom: -1px; }
+.reaction-chip     { display: flex; align-items: center; gap: 0.2rem; background: white; border: 1px solid #FFD6E8; border-radius: 999px; padding: 0.15rem 0.5rem; font-size: 0.85rem; box-shadow: 0 1px 4px rgba(232,168,196,0.25); }
+.emoji-picker      { display: flex; gap: 0.6rem; background: white; border-radius: 999px; padding: 0.5rem 0.9rem; box-shadow: 0 4px 24px rgba(194,24,91,0.2), 0 1px 4px rgba(0,0,0,0.08); border: 1px solid #FFD6E8; }

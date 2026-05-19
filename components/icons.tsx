@@ -37,3 +37,5 @@ export const EditIcon        = ({ className }: P) => <S className={className}><p
 export const CameraIcon      = ({ className }: P) => <S className={className}><path d="M23 19a2 2 0 01-2 2H3a2 2 0 01-2-2V8a2 2 0 012-2h4l2-3h6l2 3h4a2 2 0 012 2z"/><circle cx="12" cy="13" r="4"/></S>;
 export const CheckCircleIcon = ({ className }: P) => <S className={className}><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></S>;
 export const TimerIcon       = ({ className }: P) => <S className={className}><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></S>;
+export const ReplyIcon       = ({ className }: P) => <S className={className}><polyline points="9 17 4 12 9 7"/><path d="M20 18v-2a4 4 0 0 0-4-4H4"/></S>;
+export const XIcon           = ({ className }: P) => <S className={className}><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></S>;
