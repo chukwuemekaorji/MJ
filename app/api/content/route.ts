@@ -3,23 +3,35 @@ import { createSupabaseServiceClient } from '@/lib/supabaseClient';
 
 export async function GET(req: Request) {
   const { searchParams } = new URL(req.url);
-  const type = searchParams.get('type');
+  const type     = searchParams.get('type');
   const coupleId = searchParams.get('coupleId');
-  const limit = Math.min(parseInt(searchParams.get('limit') ?? '20'), 50);
+  const packName = searchParams.get('packName');
+  const limit    = Math.min(parseInt(searchParams.get('limit') ?? '50'), 100);
 
-  if (!type || !coupleId) {
-    return NextResponse.json({ error: 'Missing type or coupleId' }, { status: 400 });
+  if (!coupleId) {
+    return NextResponse.json({ error: 'Missing coupleId' }, { status: 400 });
   }
 
   const supabase = createSupabaseServiceClient();
-  const { data, error } = await supabase
+
+  let query = supabase
     .from('content')
     .select('id, text, type, category, tone, difficulty, metadata')
-    .eq('type', type)
     .eq('is_active', true)
     .limit(limit);
 
+  if (type)     query = query.eq('type', type);
+  if (packName) query = query.filter('metadata->>pack_name', 'eq', packName);
+
+  const { data, error } = await query;
   if (error) return NextResponse.json({ error: error.message }, { status: 500 });
 
-  return NextResponse.json({ content: data ?? [] });
+  // Sort pack items by pack_order
+  const sorted = (data ?? []).sort((a, b) => {
+    const ao = Number(a.metadata?.pack_order ?? 0);
+    const bo = Number(b.metadata?.pack_order ?? 0);
+    return ao - bo;
+  });
+
+  return NextResponse.json({ content: sorted });
 }

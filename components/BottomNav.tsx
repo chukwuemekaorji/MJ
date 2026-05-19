@@ -5,7 +5,7 @@ import { HomeIcon, CompassIcon, ClockIcon, UsersIcon } from './icons';
 
 const TABS = [
   { label: 'Home',    href: '/home',    Icon: HomeIcon    },
-  { label: 'Explore', href: '/home',    Icon: CompassIcon, matchPaths: ['/play', '/discuss'] },
+  { label: 'Explore', href: '/explore', Icon: CompassIcon, matchPaths: ['/explore', '/activity', '/play'] },
   { label: 'History', href: '/history', Icon: ClockIcon   },
   { label: 'Us',      href: '/us',      Icon: UsersIcon   },
 ];

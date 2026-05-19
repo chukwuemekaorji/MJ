@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { getStoredCouple, clearCouple } from '@/lib/coupleStore';
 import { BottomNav } from '@/components/BottomNav';
@@ -41,14 +41,16 @@ function AvatarCircle({ user, overlap }: { user: UserInfo; overlap?: 'left' | 'r
 }
 
 export default function UsPage() {
-  const router = useRouter();
-  const [ready,       setReady]       = useState(false);
-  const [me,          setMe]          = useState<UserInfo | null>(null);
-  const [partner,     setPartner]     = useState<UserInfo | null>(null);
-  const [editing,     setEditing]     = useState(false);
-  const [pickedColor, setPickedColor] = useState('');
-  const [avatarUrl,   setAvatarUrl]   = useState('');
-  const [saving,      setSaving]      = useState(false);
+  const router    = useRouter();
+  const fileRef   = useRef<HTMLInputElement>(null);
+  const [ready,        setReady]        = useState(false);
+  const [me,           setMe]           = useState<UserInfo | null>(null);
+  const [partner,      setPartner]      = useState<UserInfo | null>(null);
+  const [editing,      setEditing]      = useState(false);
+  const [pickedColor,  setPickedColor]  = useState('');
+  const [avatarUrl,    setAvatarUrl]    = useState('');
+  const [uploading,    setUploading]    = useState(false);
+  const [saving,       setSaving]       = useState(false);
   const [anniversary, setAnniversary] = useState('');
   const [editingDate, setEditingDate] = useState(false);
   const [newDate,     setNewDate]     = useState('');
@@ -80,6 +82,22 @@ export default function UsPage() {
     }
     const annData = await fetch(`/api/couple/anniversary?coupleId=${coupleId}`).then(r => r.json());
     if (annData.date) { setAnniversary(annData.date); setNewDate(annData.date); }
+  }
+
+  async function handlePhotoUpload(e: React.ChangeEvent<HTMLInputElement>) {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    setUploading(true);
+    const res = await fetch('/api/upload', {
+      method: 'POST', headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ fileName: file.name, mimeType: file.type, folder: 'avatars' }),
+    });
+    const { signedUrl, path } = await res.json();
+    await fetch(signedUrl, { method: 'PUT', body: file, headers: { 'content-type': file.type } });
+    const readRes = await fetch(`/api/upload?path=${encodeURIComponent(path)}`);
+    const { url } = await readRes.json();
+    setAvatarUrl(url ?? '');
+    setUploading(false);
   }
 
   async function saveAvatar() {
@@ -199,11 +217,12 @@ export default function UsPage() {
               </div>
             </div>
             <div>
-              <p className="text-xs text-gray-500 mb-2">Or paste a photo URL</p>
-              <input type="url" value={avatarUrl} onChange={e => setAvatarUrl(e.target.value)}
-                placeholder="https://…"
-                className="w-full text-sm px-3 py-2 rounded-xl bg-pink-50 text-gray-700 placeholder-pink-300 focus:outline-none focus:ring-2 focus:ring-pink-200"
-              />
+              <p className="text-xs text-gray-500 mb-2">Or upload a photo</p>
+              <input ref={fileRef} type="file" accept="image/*" aria-label="Upload profile photo" className="hidden" onChange={handlePhotoUpload} />
+              <button type="button" onClick={() => fileRef.current?.click()}
+                className="w-full py-3 rounded-xl bg-pink-50 text-pink-500 text-sm font-semibold border border-pink-200 active:scale-95 transition-transform">
+                {uploading ? 'Uploading…' : avatarUrl ? '✓ Photo uploaded — tap to change' : '📷 Choose from camera or gallery'}
+              </button>
             </div>
             <div className="flex gap-3">
               <button type="button" onClick={() => setEditing(false)} className="flex-1 py-2 rounded-xl text-pink-400 text-sm font-medium bg-pink-50">Cancel</button>
