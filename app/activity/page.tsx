@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { getStoredCouple } from '@/lib/coupleStore';
-import { CheckCircleIcon, CameraIcon, ChatIcon, TimerIcon } from '@/components/icons';
+import { CheckCircleIcon, CameraIcon, ChatIcon } from '@/components/icons';
 
 type Item = {
   id: string;
@@ -25,6 +25,7 @@ function ActivityContent() {
   const couple       = useRef(getStoredCouple());
 
   const [items,       setItems]       = useState<Item[]>([]);
+  const [itemsLoaded, setItemsLoaded] = useState(false);
   const [index,       setIndex]       = useState(0);
   const [answers,     setAnswers]     = useState<Answers>({});
   const [text,        setText]        = useState('');
@@ -33,8 +34,6 @@ function ActivityContent() {
   const [uploading,   setUploading]   = useState(false);
   const [submitting,  setSubmitting]  = useState(false);
   const [phase,       setPhase]       = useState<'answering' | 'waiting' | 'revealed'>('answering');
-  const [myDone,      setMyDone]      = useState(false);
-  const [partnerDone, setPartnerDone] = useState(false);
   const [revealed,    setRevealed]    = useState<{ myAnswers: Answers; partnerAnswers: Answers } | null>(null);
   const [sessionId,   setSessionId]   = useState<string | null>(null);
   const pollRef = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -53,7 +52,7 @@ function ActivityContent() {
     // Load items
     fetch(`/api/content?packName=${encodeURIComponent(packName)}&type=${packType}&coupleId=${c.coupleId}&limit=100`)
       .then(r => r.json())
-      .then(d => setItems(d.content ?? []));
+      .then(d => { setItems(d.content ?? []); setItemsLoaded(true); });
     // Load session state
     loadSession();
   // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -74,8 +73,6 @@ function ActivityContent() {
     const res  = await fetch(`/api/activity?coupleId=${c.coupleId}&userId=${c.userId}&packName=${encodeURIComponent(packName)}&packType=${packType}`);
     const data = await res.json();
     setSessionId(data.sessionId);
-    setMyDone(data.myDone);
-    setPartnerDone(data.partnerDone);
 
     if (data.myDone && !data.completed) {
       setPhase('waiting');
@@ -142,25 +139,43 @@ function ActivityContent() {
         body:    JSON.stringify({ coupleId: c.coupleId, userId: c.userId, packName, packType, answers: newAnswers, done: true }),
       });
       setSubmitting(false);
-      setMyDone(true);
       setPhase('waiting');
       loadSession();
     }
   }
 
-  function pickWYR(opt: string, val: string) {
+  async function finishActivity(finalAnswers: Answers) {
+    if (!c) return;
+    setSubmitting(true);
+    await fetch('/api/activity', {
+      method:  'POST',
+      headers: { 'content-type': 'application/json' },
+      body:    JSON.stringify({ coupleId: c.coupleId, userId: c.userId, packName, packType, answers: finalAnswers, done: true }),
+    });
+    setSubmitting(false);
+    setPhase('waiting');
+    loadSession();
+  }
+
+  function pickWYR(_opt: string, val: string) {
     if (!current) return;
-    setAnswers(prev => ({ ...prev, [current.id]: { type: 'text', value: val } }));
+    const newAnswers = { ...answers, [current.id]: { type: 'text' as const, value: val } };
+    setAnswers(newAnswers);
     if (index < total - 1) {
       setIndex(i => i + 1);
+    } else {
+      finishActivity(newAnswers);
     }
   }
 
   function pickQuiz(opt: string) {
     if (!current) return;
-    setAnswers(prev => ({ ...prev, [current.id]: { type: 'text', value: opt } }));
+    const newAnswers = { ...answers, [current.id]: { type: 'text' as const, value: opt } };
+    setAnswers(newAnswers);
     if (index < total - 1) {
       setIndex(i => i + 1);
+    } else {
+      finishActivity(newAnswers);
     }
   }
 
@@ -191,7 +206,7 @@ function ActivityContent() {
   }
 
   // ── Revealed state ──
-  if (phase === 'revealed' && revealed) {
+  if (phase === 'revealed' && revealed && itemsLoaded) {
     return (
       <main className="min-h-screen pb-8 home-bg">
         <div className="px-4 pt-10 pb-4 flex items-center gap-3">
@@ -262,8 +277,8 @@ function ActivityContent() {
       <div className="px-4 mb-4">
         <div className="h-1.5 bg-pink-100 rounded-full overflow-hidden">
           <div
-            className="h-full rounded-full transition-all duration-300"
-            style={{ width: `${((index + 1) / total) * 100}%`, background: 'linear-gradient(90deg, #FF4FA3, #C2185B)' }}
+            className="h-full rounded-full transition-all duration-300 progress-fill"
+            style={{ '--progress-w': `${((index + 1) / total) * 100}%` } as React.CSSProperties}
           />
         </div>
       </div>
@@ -278,7 +293,7 @@ function ActivityContent() {
         {/* Answer section */}
         {answerType === 'image' ? (
           <div className="space-y-3">
-            <input ref={fileRef} type="file" accept="image/*" capture="environment" className="hidden" onChange={handleImagePick} />
+            <input ref={fileRef} type="file" accept="image/*" aria-label="Upload a photo as your answer" className="hidden" onChange={handleImagePick} />
             {imgPreview ? (
               <div className="pink-card overflow-hidden">
                 {/* eslint-disable-next-line @next/next/no-img-element */}

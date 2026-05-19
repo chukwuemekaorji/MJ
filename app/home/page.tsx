@@ -111,7 +111,7 @@ export default function HomePage() {
 
         {/* Streak broken warning */}
         {streak > 0 && !streakToday && dailyState === 'unanswered' && (
-          <div className="rounded-2xl p-3 flex items-center gap-3 animate-fade-up" style={{ background: 'linear-gradient(135deg, #FFF3E0, #FFEDD5)' }}>
+          <div className="rounded-2xl p-3 flex items-center gap-3 animate-fade-up streak-warning">
             <FlameIcon className="w-5 h-5 text-orange-400 flex-shrink-0" />
             <p className="text-orange-700 text-xs font-medium">
               Answer today to keep your {streak} day streak alive

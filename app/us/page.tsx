@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { getStoredCouple, clearCouple } from '@/lib/coupleStore';
+import { subscribeToPush, isPushEnabled } from '@/lib/pushClient';
 import { BottomNav } from '@/components/BottomNav';
 import { EditIcon, HeartFillIcon, CameraIcon, CheckIcon } from '@/components/icons';
 
@@ -55,12 +56,15 @@ export default function UsPage() {
   const [editingDate, setEditingDate] = useState(false);
   const [newDate,     setNewDate]     = useState('');
   const [savingDate,  setSavingDate]  = useState(false);
+  const [copied,      setCopied]      = useState(false);
+  const [notifStatus, setNotifStatus] = useState<'idle' | 'enabled' | 'denied'>('idle');
 
   useEffect(() => {
     const stored = getStoredCouple();
     if (!stored) { router.replace('/'); return; }
     setReady(true);
     loadData(stored.coupleId, stored.userId);
+    isPushEnabled().then(on => { if (on) setNotifStatus('enabled'); });
   }, [router]);
 
   async function loadData(coupleId: string, myId: string) {
@@ -249,7 +253,11 @@ export default function UsPage() {
           </div>
           {editingDate && (
             <div className="space-y-3 animate-slide-up">
-              <input type="date" value={newDate} max={new Date().toISOString().slice(0, 10)}
+              <input
+                type="date"
+                aria-label="Anniversary date"
+                value={newDate}
+                max={new Date().toISOString().slice(0, 10)}
                 onChange={e => setNewDate(e.target.value)}
                 className="w-full text-sm px-3 py-2 rounded-xl bg-pink-50 text-gray-700 focus:outline-none focus:ring-2 focus:ring-pink-200"
               />
@@ -269,18 +277,26 @@ export default function UsPage() {
           <div className="px-5 py-4 flex items-center justify-between">
             <div>
               <p className="text-sm font-semibold text-gray-700">Couple code</p>
-              <p className="text-pink-400 text-xs mt-0.5">Share this to connect on a new device</p>
+              <p className="text-pink-400 text-xs mt-0.5">
+                {copied ? 'Copied to clipboard!' : 'Share this to connect on a new device'}
+              </p>
             </div>
             <button
               type="button"
               onClick={() => {
-                const stored = window.localStorage.getItem('mj_couple');
-                const code   = stored ? JSON.parse(stored).code : '';
-                navigator.clipboard.writeText(code).catch(() => {});
+                const stored = getStoredCouple();
+                if (!stored?.code) return;
+                navigator.clipboard.writeText(stored.code)
+                  .then(() => { setCopied(true); setTimeout(() => setCopied(false), 2500); })
+                  .catch(() => {});
               }}
-              className="text-xs font-bold text-pink-600 bg-pink-50 px-3 py-1.5 rounded-xl border border-pink-200"
+              className={`text-xs font-bold px-3 py-1.5 rounded-xl border transition-colors ${
+                copied
+                  ? 'text-green-600 bg-green-50 border-green-200'
+                  : 'text-pink-600 bg-pink-50 border-pink-200'
+              }`}
             >
-              Copy code
+              {copied ? 'Copied!' : 'Copy code'}
             </button>
           </div>
 
@@ -288,20 +304,28 @@ export default function UsPage() {
           <div className="px-5 py-4 flex items-center justify-between">
             <div>
               <p className="text-sm font-semibold text-gray-700">Push notifications</p>
-              <p className="text-pink-400 text-xs mt-0.5">Get notified when your partner answers</p>
+              <p className="text-pink-400 text-xs mt-0.5">
+                {notifStatus === 'enabled' ? 'Notifications are on' : notifStatus === 'denied' ? 'Blocked in browser settings' : 'Get notified when your partner answers'}
+              </p>
             </div>
             <button
               type="button"
+              disabled={notifStatus === 'enabled' || notifStatus === 'denied'}
               onClick={async () => {
-                const stored = window.localStorage.getItem('mj_couple');
+                const stored = getStoredCouple();
                 if (!stored) return;
-                const { userId } = JSON.parse(stored);
-                const { subscribeToPush } = await import('@/lib/pushClient');
-                await subscribeToPush(userId);
+                const result = await subscribeToPush(stored.userId);
+                setNotifStatus(result === 'ok' ? 'enabled' : result === 'denied' ? 'denied' : 'idle');
               }}
-              className="text-xs font-bold text-pink-600 bg-pink-50 px-3 py-1.5 rounded-xl border border-pink-200"
+              className={`text-xs font-bold px-3 py-1.5 rounded-xl border transition-colors disabled:opacity-60 ${
+                notifStatus === 'enabled'
+                  ? 'text-green-600 bg-green-50 border-green-200'
+                  : notifStatus === 'denied'
+                    ? 'text-gray-400 bg-gray-50 border-gray-200'
+                    : 'text-pink-600 bg-pink-50 border-pink-200'
+              }`}
             >
-              Enable
+              {notifStatus === 'enabled' ? 'Enabled' : notifStatus === 'denied' ? 'Blocked' : 'Enable'}
             </button>
           </div>
 

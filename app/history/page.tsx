@@ -6,7 +6,19 @@ import { getStoredCouple } from '@/lib/coupleStore';
 import { BottomNav } from '@/components/BottomNav';
 import { ClockIcon } from '@/components/icons';
 
-type Session = { id: string; content_type: string; completed_at: string; content?: { text: string; category: string } };
+type Session = {
+  id: string;
+  activity_type: string;
+  category: string;   // this is the pack_name
+  completed_at: string;
+};
+
+const TYPE_LABEL: Record<string, string> = {
+  couple_question: 'Deep Talk',    game:          'Play Together',
+  quiz:            'Read My Mind', exercise:      'Together Time',
+  journey:         'Our Journey',  question_pack: 'Questions',
+  insight_prompt:  'Grow Together', spicy:        'Spicy',
+};
 
 export default function HistoryPage() {
   const router  = useRouter();
@@ -22,14 +34,10 @@ export default function HistoryPage() {
   }, [router]);
 
   function formatDate(iso: string) {
-    return new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+    return new Date(iso).toLocaleDateString('en-GB', {
+      day: 'numeric', month: 'short', year: 'numeric',
+    });
   }
-
-  const TYPE_LABEL: Record<string, string> = {
-    couple_question: 'Deep Talk', game: 'Play Together', quiz: 'Read My Mind',
-    exercise: 'Together Time', journey: 'Our Journey', question_pack: 'Question Packs',
-    insight_prompt: 'Grow Together', spicy: 'Spicy',
-  };
 
   return (
     <main className="min-h-screen pb-24 home-bg">
@@ -47,31 +55,42 @@ export default function HistoryPage() {
           <div className="text-center mt-16 space-y-3">
             <ClockIcon className="w-12 h-12 text-pink-200 mx-auto" />
             <p className="text-pink-400 font-semibold">No history yet</p>
-            <p className="text-pink-300 text-sm">Answer questions together and they&apos;ll show up here</p>
+            <p className="text-pink-300 text-sm">
+              Complete an activity together and it will show up here
+            </p>
           </div>
         ) : (
           sessions.map(s => (
             <button
               key={s.id}
               type="button"
-              onClick={() => router.push(`/discuss/${s.id}`)}
+              onClick={() =>
+                router.push(
+                  `/activity?packName=${encodeURIComponent(s.category)}&type=${s.activity_type}`
+                )
+              }
               className="w-full text-left pink-card p-4 flex items-start gap-3 active:scale-98 transition-transform"
             >
               <div className="flex-1 min-w-0">
                 <div className="flex items-center gap-2 mb-1">
-                  <span className="text-xs font-bold text-pink-400 uppercase tracking-wider">{TYPE_LABEL[s.content_type] ?? s.content_type}</span>
-                  {s.content?.category && (
-                    <span className="text-xs text-gray-400">{s.content.category.replace(/_/g, ' ')}</span>
-                  )}
+                  <span className="text-xs font-bold text-pink-400 uppercase tracking-wider">
+                    {TYPE_LABEL[s.activity_type] ?? s.activity_type}
+                  </span>
+                  <span className="w-1 h-1 rounded-full bg-pink-200 flex-shrink-0" />
+                  <span className="text-xs text-green-500 font-semibold">Both answered</span>
                 </div>
-                <p className="text-gray-700 text-sm font-medium leading-snug truncate">{s.content?.text ?? 'Session'}</p>
+                <p className="text-gray-700 text-sm font-semibold leading-snug">{s.category}</p>
                 <p className="text-pink-300 text-xs mt-1">{formatDate(s.completed_at)}</p>
               </div>
-              <span className="text-pink-300 text-sm flex-shrink-0 mt-1">→</span>
+              <div className="flex flex-col items-end gap-1 flex-shrink-0">
+                <span className="text-pink-300 text-sm">→</span>
+                <span className="text-xs text-pink-300">See answers</span>
+              </div>
             </button>
           ))
         )}
       </div>
+
       <BottomNav />
     </main>
   );

@@ -117,6 +117,12 @@ body {
 /* === Explore category tab bar === */
 .tab-bar { box-shadow: 0 2px 10px rgba(232,168,196,0.2); }
 
+/* === Activity progress bar === */
+.progress-fill { background: linear-gradient(90deg, #FF4FA3, #C2185B); width: var(--progress-w, 0%); }
+
+/* === Streak broken warning === */
+.streak-warning { background: linear-gradient(135deg, #FFF3E0, #FFEDD5); }
+
 /* === Type circle buttons === */
 .type-circle-active   { background-color: #C2185B; box-shadow: 0 4px 16px rgba(194,24,91,0.35); }
 .type-circle-inactive { background-color: white;   box-shadow: 0 2px 10px rgba(232,168,196,0.25); }

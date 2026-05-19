@@ -7,9 +7,10 @@ export async function GET(req: Request) {
   if (!coupleId) return NextResponse.json({ error: 'Missing coupleId' }, { status: 400 });
 
   const supabase = createSupabaseServiceClient();
+
   const { data, error } = await supabase
-    .from('sessions')
-    .select('id, content_type, completed_at, content:content_id(text, category)')
+    .from('activity_sessions')
+    .select('id, activity_type, category, completed_at')
     .eq('couple_id', coupleId)
     .eq('completed', true)
     .order('completed_at', { ascending: false })
