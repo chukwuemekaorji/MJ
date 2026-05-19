@@ -11,17 +11,18 @@ type UserInfo = { id: string; display_name: string; avatar_color: string; avatar
 
 const AVATAR_COLORS = ['#FF4FA3','#C2185B','#FF7096','#F06292','#E91E63','#FF9FB2','#AD1457','#F48FB1'];
 
-function breakdown(dateStr: string) {
-  const from = new Date(dateStr);
-  const now  = new Date();
+function breakdown(dateStr: string, now: Date) {
+  // Force local-noon so a date-only string never shifts a day due to UTC offset
+  const from = new Date(dateStr + 'T12:00:00');
   let y = now.getFullYear() - from.getFullYear();
   let m = now.getMonth()    - from.getMonth();
   let d = now.getDate()     - from.getDate();
   if (d < 0) { m--; d += new Date(now.getFullYear(), now.getMonth(), 0).getDate(); }
   if (m < 0) { y--; m += 12; }
-  const totalDays = Math.max(0, Math.floor((now.getTime() - from.getTime()) / 86400000));
-  const heartbeats = totalDays * 24 * 60 * 70;
-  return { years: Math.max(0, y), months: Math.max(0, m), days: Math.max(0, d), heartbeats, totalDays };
+  // Second-precision so heartbeats tick every ~0.86 s (70 bpm)
+  const totalSeconds = Math.max(0, Math.floor((now.getTime() - from.getTime()) / 1000));
+  const heartbeats   = Math.floor(totalSeconds * 70 / 60);
+  return { years: Math.max(0, y), months: Math.max(0, m), days: Math.max(0, d), heartbeats };
 }
 
 function AvatarCircle({ user, overlap }: { user: UserInfo; overlap?: 'left' | 'right' }) {
@@ -58,6 +59,13 @@ export default function UsPage() {
   const [savingDate,  setSavingDate]  = useState(false);
   const [copied,      setCopied]      = useState(false);
   const [notifStatus, setNotifStatus] = useState<'idle' | 'enabled' | 'denied'>('idle');
+  const [now,         setNow]         = useState(() => new Date());
+
+  // Tick every second so heartbeats and date stay live
+  useEffect(() => {
+    const iv = setInterval(() => setNow(new Date()), 1000);
+    return () => clearInterval(iv);
+  }, []);
 
   useEffect(() => {
     const stored = getStoredCouple();
@@ -130,7 +138,7 @@ export default function UsPage() {
     setEditingDate(false);
   }
 
-  const stats = anniversary ? breakdown(anniversary) : null;
+  const stats = anniversary ? breakdown(anniversary, now) : null;
   const sinceLabel = anniversary
     ? new Date(anniversary).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
     : null;
